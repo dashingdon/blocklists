@@ -2074,4 +2074,16 @@ image.timespoints.iimg.in
 polling.bbc.co.uk
 collector-pxzhh9f9x0.perimeterx.net
 appboy.com
-
+ad.doubleclick.net
+ads.msn.com
+ads1.msads.net
+ads1.msn.com
+a.ads1.msn.com
+a.ads2.msn.com
+adnexus.net
+adnxs.com
+az361816.vo.msecnd.net
+az512334.vo.msecnd.net
+rad.msn.com
+telemetry.microsoft.com
+telemetry.microsoft.com.nsatc.net
