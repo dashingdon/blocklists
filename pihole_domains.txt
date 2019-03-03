@@ -3535,3 +3535,5 @@ zadmj.cp-addltives.com
 zetes.vdsinside.com
 cs.dds.microsoft.com.akadns.net
 a.sellpoint.net
+S.ytimg.com
+mt-ingestion-service-pv.itunes-apple.com.akadns.net
