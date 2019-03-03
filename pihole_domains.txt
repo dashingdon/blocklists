@@ -3571,3 +3571,12 @@ s.adroll.com
 cf.iadsdk.apple.com
 adsrvr.receptiv.com
 config.samsungads.com
+app-measurement.com
+graph.facebook.com
+beacons2.gvt2.com
+settings.crashlytics.com
+e.crashlytics.com
+lacerta.iad.appboy.com
+logs-01.loggly.com
+comcast-analytics.smithmicro.com
+redirector.googlevideo.com
