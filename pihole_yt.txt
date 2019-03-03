@@ -9550,3 +9550,7 @@ r3---sn-5hne6ns6.googlevideo.com
 r2---sn-n4v7snee.googlevideo.com
 r2---sn-n4v7sn7z.googlevideo.com
 r2---sn-n4v7knl6.googlevideo.com
+r4---sn-n4v7sn7l.googlevideo.com
+r4---sn-n4v7sne7.googlevideo.com
+r3---sn-n4v7sney.googlevideo.com
+r3---sn-a5m7lnlz.googlevideo.com
