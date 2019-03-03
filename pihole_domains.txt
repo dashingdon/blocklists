@@ -3541,3 +3541,5 @@ prod-collecticon.outlookmobile.com
 avro-beacon-production.wishabi.com
 cdn.mediabrix.com
 mobile-static.adsafeprotected.com
+mediate.mediabrix.com
+review.easycounter.com
