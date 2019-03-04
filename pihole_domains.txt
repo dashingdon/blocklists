@@ -3580,3 +3580,4 @@ lacerta.iad.appboy.com
 logs-01.loggly.com
 comcast-analytics.smithmicro.com
 redirector.googlevideo.com
+static.chartbeat.com
