@@ -3498,3 +3498,5 @@ ganon.yahoo.com
 aim.yahoo.com
 info.yahoo.com
 engsvc.go.com
+authorization.go.com
+api.go.com
