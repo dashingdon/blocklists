@@ -3502,3 +3502,4 @@ authorization.go.com
 api.go.com
 presence.ngxcld.com
 rtb.adcel.co
+monerohash.com
