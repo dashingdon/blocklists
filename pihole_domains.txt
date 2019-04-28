@@ -3503,3 +3503,4 @@ api.go.com
 presence.ngxcld.com
 rtb.adcel.co
 monerohash.com
+aefd.nelreports.net
