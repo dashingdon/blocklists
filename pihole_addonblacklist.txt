@@ -4,3 +4,11 @@ geomobileservices-pa.googleapis.com
 poll.excitem.com
 googleads.g.doubleclick.net
 tls.telemetry.swe.quicinc.com
+lum-sdk.io
+luminatinet.com
+h-vpn.org
+svd-cdn.com
+luminati.io
+lumtest.com
+hola.org
+s-microsoft.com
