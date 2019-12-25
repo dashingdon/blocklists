@@ -12,3 +12,4 @@ luminati.io
 lumtest.com
 hola.org
 s-microsoft.com
+lcdn-locator.apple.com
