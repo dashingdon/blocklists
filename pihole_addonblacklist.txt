@@ -60,3 +60,6 @@ cdn-ssl.vidible.tv
 
 # generic
 ns.exitgames.com
+
+# office
+debug.opendns.com

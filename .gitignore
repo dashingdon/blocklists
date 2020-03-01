@@ -42,6 +42,7 @@ Thumbs.db
 *.swp
 *.pyo
 *.pyc
+*.save
 
 # Images
 ######################
