@@ -52,6 +52,12 @@ cvp.twitch.tv
 extensions-discovery-images.twitch.tv
 static.twitchcdn.net
 
+# justbuild
+www.justbuild.lol
+1v1.lol
+interactive.guim.co.uk
+us-central1-justbuild-cdb86.cloudfunctions.net
+
 # Music
 www.complex.com
 images.complex.com
