@@ -1,6 +1,10 @@
 www.youtube.com
 youtube.com
 googlevideo.com
+googleads.g.doubleclick.net
+www.googleadservices.com
+googleadservices.com
+redirector.googlevideo.com
 r3---sn-n4v7sn7l.googlevideo.com
 r6---sn-o097znlk.googlevideo.com
 r3---sn-o097znlr.googlevideo.com
