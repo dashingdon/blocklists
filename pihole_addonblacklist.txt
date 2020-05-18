@@ -69,3 +69,6 @@ ns.exitgames.com
 
 # office
 debug.opendns.com
+
+# General
+min-api.cryptocompare.com
