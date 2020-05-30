@@ -72,3 +72,5 @@ debug.opendns.com
 
 # General
 min-api.cryptocompare.com
+fq2h9152m63.statuspage.io
+statuspage.io
