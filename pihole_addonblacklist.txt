@@ -74,3 +74,19 @@ debug.opendns.com
 min-api.cryptocompare.com
 fq2h9152m63.statuspage.io
 statuspage.io
+adc.streamspread.com
+
+# tumblr.com
+tumblr.com
+api.tumblr.com
+www.tumblr.com
+assets.tumblr.com
+
+# porn block
+icexvideo.com
+dateszone.net
+ogjle.dateszone.net
+cdn-bimi.akamaized.net
+ripclothes.tumblr.com
+x.disq.us
+autolinkmaker.itunes.apple.com
