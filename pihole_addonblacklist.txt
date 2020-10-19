@@ -20,6 +20,30 @@ dadsecz.com
 # Gamesites
 krunker.io
 matchmaker.krunker.io
+unblockeds-games.com
+invite.venge.io
+venge.io
+droplet-sa-3.venge.io
+www.verge.io
+verge.io
+game-cdn.poki.com
+geo.poki.io
+a.poki.com
+games.poki.com
+t.poki.io
+gateway.venge.io
+devs-api.poki.com
+shellshock.io
+brazil2.shellshock.io
+frankfurt2.shellshock.io
+sydney.shellshock.io
+singapore2.shellshock.io
+signin.rockstargames.com
+www.rockstargames.com
+zoo.io
+zoomba.io
+nuggetroyale.io
+expertrec.com
 
 crazygames.com
 videos.crazygames.com
