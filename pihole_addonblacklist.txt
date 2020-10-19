@@ -24,12 +24,14 @@ unblockeds-games.com
 invite.venge.io
 venge.io
 droplet-sa-3.venge.io
+droplet-sa-2.venge.io
 www.verge.io
 verge.io
 game-cdn.poki.com
 geo.poki.io
 a.poki.com
 games.poki.com
+poki.com
 t.poki.io
 gateway.venge.io
 devs-api.poki.com
@@ -38,12 +40,16 @@ brazil2.shellshock.io
 frankfurt2.shellshock.io
 sydney.shellshock.io
 singapore2.shellshock.io
+uscentral2.shellshock.io
 signin.rockstargames.com
 www.rockstargames.com
 zoo.io
 zoomba.io
 nuggetroyale.io
+surviv.io
 expertrec.com
+xsolla.com
+cdn.xsolla.net
 
 crazygames.com
 videos.crazygames.com
