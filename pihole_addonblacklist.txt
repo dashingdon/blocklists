@@ -1,3 +1,8 @@
+# 12/02/2020 Google new feed ads
+sdk.credible.com
+www.credible.com
+smartasset.com
+
 api.darksky.net
 semanticlocation-pa.googleapis.com
 geomobileservices-pa.googleapis.com
