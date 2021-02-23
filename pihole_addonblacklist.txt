@@ -126,6 +126,17 @@ min-api.cryptocompare.com
 fq2h9152m63.statuspage.io
 statuspage.io
 adc.streamspread.com
+www.theatlantic.com
+www.marieclaire.com
+aeon.co
+www.thecut.com
+www.discovermagazine.com
+www.artofmanliness.com
+catapult.co
+www.vonschicken.com
+theodd1sout.com
+www.eff.org
+www.comparecards.com
 
 # tumblr.com
 tumblr.com
