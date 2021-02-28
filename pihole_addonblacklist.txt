@@ -2,6 +2,8 @@
 sdk.credible.com
 www.credible.com
 smartasset.com
+3p.ampproject.net
+ampproject.net
 
 api.darksky.net
 semanticlocation-pa.googleapis.com
