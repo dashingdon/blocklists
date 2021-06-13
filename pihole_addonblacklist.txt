@@ -1,3 +1,6 @@
+# 06/12/2021
+devicelocation.ngxcld.com
+
 # 12/02/2020 Google new feed ads
 sdk.credible.com
 www.credible.com
