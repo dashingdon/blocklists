@@ -1,3 +1,12 @@
+# 09/01/2021
+www.netgear.com
+registration.ngxcld.com
+presence.insight.netgear.com
+devcom.insight.netgear.com
+xbroker-z2-i20.ngxcld.com
+advisor.ngxcld.com
+ngxcld.com
+
 # 06/12/2021
 devicelocation.ngxcld.com
 
