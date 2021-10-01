@@ -1,5 +1,6 @@
 # 09/01/2021
 www.netgear.com
+devcom.up.netgear.com
 registration.ngxcld.com
 presence.insight.netgear.com
 devcom.insight.netgear.com
