@@ -1,3 +1,7 @@
+# 10/02/2021
+elb-nvi-gcp.nimbus.bitdefender.net
+elb-lon-gcp.nimbus.bitdefender.net
+
 # 09/01/2021
 www.netgear.com
 devcom.up.netgear.com
