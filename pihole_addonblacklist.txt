@@ -1,6 +1,7 @@
 # 10/02/2021
 edge.surfeasy.com
 lookaside.facebook.com
+ustats-cdn.schoology.com
 elb-nvi-gcp.nimbus.bitdefender.net
 elb-lon-gcp.nimbus.bitdefender.net
 
