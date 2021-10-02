@@ -1,4 +1,5 @@
 # 10/02/2021
+edge.surfeasy.com
 elb-nvi-gcp.nimbus.bitdefender.net
 elb-lon-gcp.nimbus.bitdefender.net
 
