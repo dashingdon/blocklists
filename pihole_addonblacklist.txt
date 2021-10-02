@@ -132,6 +132,7 @@ cdn-ssl.vidible.tv
 
 # generic
 ns.exitgames.com
+ustats-app.schoology.com
 
 # office
 debug.opendns.com
