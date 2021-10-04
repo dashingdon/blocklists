@@ -4,7 +4,6 @@ lookaside.facebook.com
 ustats-cdn.schoology.com
 elb-nvi-gcp.nimbus.bitdefender.net
 elb-lon-gcp.nimbus.bitdefender.net
-rr3.*.googlevideo.com
 
 # 09/01/2021
 www.netgear.com
