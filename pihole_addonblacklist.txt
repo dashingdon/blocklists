@@ -1,16 +1,20 @@
+# 10/10/2021
+analytics.plex.tv
+metrics.plex.tv
+
 # 10/02/2021
 edge.surfeasy.com
 lookaside.facebook.com
 ustats-cdn.schoology.com
 elb-nvi-gcp.nimbus.bitdefender.net
 elb-lon-gcp.nimbus.bitdefender.net
-.*.nimbus.bitdefender.net
+nimbus.bitdefender.net
 www.gq.com
 www.nplusonemag.com
 www.esquire.com
 defly.io
 www.lendgo.com
-.*.line.me
+line.me
 
 # 09/01/2021
 www.netgear.com
