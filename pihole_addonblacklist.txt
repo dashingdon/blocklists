@@ -1,6 +1,7 @@
 # 10/10/2021
 analytics.plex.tv
 metrics.plex.tv
+whatismyip.akamai.com
 
 # 10/02/2021
 edge.surfeasy.com
