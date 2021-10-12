@@ -2,6 +2,7 @@
 analytics.plex.tv
 metrics.plex.tv
 whatismyip.akamai.com
+myip.opendns.com
 x1.c.lencr.org
 
 # 10/02/2021
