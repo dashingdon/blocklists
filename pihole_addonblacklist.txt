@@ -18,6 +18,7 @@ www.esquire.com
 defly.io
 www.lendgo.com
 line.me
+lan3rd.line.me
 
 # 09/01/2021
 www.netgear.com
