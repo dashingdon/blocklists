@@ -4,6 +4,8 @@ metrics.plex.tv
 whatismyip.akamai.com
 #myip.opendns.com
 x1.c.lencr.org
+webapp.comiko.net
+comiko.net
 
 # 10/02/2021
 edge.surfeasy.com
