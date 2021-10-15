@@ -6,6 +6,7 @@ whatismyip.akamai.com
 x1.c.lencr.org
 webapp.comiko.net
 comiko.net
+thepoweltonpizza.com
 
 # 10/02/2021
 edge.surfeasy.com
