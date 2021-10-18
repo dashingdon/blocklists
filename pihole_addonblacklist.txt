@@ -1,3 +1,19 @@
+# 10/18/2021 Adobe
+hbrt.adobe.com
+hbrcv.adobe.com
+crlog-crcn.adobe.com
+ims-prod06.adobelogin.com
+ims-na1.adobelogin.com
+cc-api-data.adobe.io
+genuine.adobe.com
+static.adobelogin.com
+geo2.adobe.com
+dpm.demdex.net
+adobe.tt.omtrdc.net
+adobeid-na1.services.adobe.com
+geo.adobe.com
+sstats.adobe.com
+
 # 10/10/2021
 analytics.plex.tv
 metrics.plex.tv
