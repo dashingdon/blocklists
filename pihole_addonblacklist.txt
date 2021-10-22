@@ -1,3 +1,8 @@
+# blocked through cloudflare team gateay
+muctau.com
+comiko.net
+thepoweltonpizza.com
+
 # 10/18/2021 Adobe
 hbrt.adobe.com
 hbrcv.adobe.com
@@ -21,8 +26,6 @@ whatismyip.akamai.com
 #myip.opendns.com
 x1.c.lencr.org
 webapp.comiko.net
-comiko.net
-thepoweltonpizza.com
 
 # 10/02/2021
 edge.surfeasy.com
