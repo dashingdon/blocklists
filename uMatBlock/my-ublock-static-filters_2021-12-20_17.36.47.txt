@@ -1,0 +1,172 @@
+! added by me
+##DIV[class^="bxm4mm-4"]
+##[class^="textads"]
+##DIV[class^="article-share"]
+||$csp=worker-src 'none'
+@@$csp=worker-src 'none',domain=~whatsapp.comm
+!@@$csp=worker-src 'none',domain=~youtube.com
+!@@$csp=worker-src 'none',domain=~nextdoor.com
+!@@$csp=worker-src 'none',domain=~chipotle.com
+!||*/vendors~adEditor~$script
+!||*~adManager$script
+||*bundle-footer-promos*.js$script,important
+||*ads.js$script,important
+||*/js.cookie.min.js$script
+omtr_code.js$script,important
+_visitorId.js$script,important
+_analytics*.js$script,important
+count.js$script,important
+xads.js$script,important
+/analytics-dotcom/*
+_analytics
+||*video.mp4*$important
+||*/video/*$important
+lodash.core.js$script,important
+data-collection.min.js$script,important
+homedepot.com#@#+js(no-floc)
+walmart.com#@#+js(no-floc)
+facebook.com##+js(set, navigator.cookieEnabled, false)
+||washingtonpost.com/pwapiv2/$xhr,1p
+
+! 2021-12-09 https://outlook.live.com
+!outlook.live.com##._1fti_QgAzqGWPGlqh_FSvI
+!outlook.live.com##._28ithXDZzMqSN0YAG2rCVn
+
+! 2021-12-09 https://www.mercurynews.com
+!www.mercurynews.com##.article-share
+!www.mercurynews.com##.sign-up-follow
+
+! 2021-12-09 https://www.mercurynews.com
+www.mercurynews.com###mobile-adhesion
+
+! 2021-12-09 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##._3kDGy._1CyyJ
+timesofindia.indiatimes.com##[class^="div-gpt-ad-"]
+
+! 2021-12-09 https://www.loksatta.com
+#www.loksatta.com##.adcode728x90.alignnone.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
+#www.loksatta.com##div.adcode300x250.alignnone.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
+#www.loksatta.com##.desk-ad-bg-container
+#www.loksatta.com##div[wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit]
+www.loksatta.com##[class^="wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit"]
+
+! 2021-12-09 https://www.esakal.com
+www.esakal.com##.show.gm-observing-cb.gm-observing
+
+! 2021-12-09 https://www.policygenius.com
+#www.policygenius.com##div.fHcAex.Newsletter__Container-sc-1x1k1pi-0
+www.policygenius.com##[class^="Newsletter__Container-sc-"]
+www.reddit.com##DIV[class="_1EG7_Cm18ANvUvJ4rJdRgQ FeLWdhOO-cVXowAo3Rndk _2mQGWgGIa1tOb-9mH8lvcG scrollerItem"]
+
+! 2021-12-09 https://www.foxbusiness.com
+www.foxbusiness.com##[class^="pre-content"]
+
+! 2021-12-09 https://static.foxnews.com
+||foxnewsplayer-a.akamaihd.net/player/9.0.23/akamai/amp/prebid/Prebid.min.js$script,domain=static.foxnews.com,important
+
+! 2021-12-09 https://www.foxnews.com
+||js.taplytics.com/jssdk/34c3ab59aa2e43688b7e00293b792632.min.js?adobe_evar=eVar65&adobe_obj=omtr$script,domain=www.foxnews.com,important
+
+! 2021-12-09 https://my.foxnews.com
+||*/segment.js?cb=SXQncyBncmVhdCB0byBiZSBhbGl2ZS4$script,important
+
+! 2021-12-09 https://www.foxbusiness.com
+||c.amazon-adsystem.com^$script,important
+
+! 2021-12-09 https://www.sfchronicle.com
+||nexus.ensighten.com^$script,important
+
+! 2021-12-09 https://www.youtube.com
+||www.youtube.com/api/stats/*$xhr,important
+
+! 2021-12-10 https://www.indiatimes.com
+www.indiatimes.com###div[class$="block-"]
+www.indiatimes.com###block-556397-3
+www.indiatimes.com##[class^="rhs-video"]
+www.indiatimes.com###block-555700-3
+
+www.reddit.com##DIV[class="_1EG7_Cm18ANvUvJ4rJdRgQ FeLWdhOO-cVXowAo3Rndk _2mQGWgGIa1tOb-9mH8lvcG scrollerItem"]
+
+youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
+youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
+
+! 2021-12-12 https://patch.com
+patch.com##figure
+patch.com##.ContentBlocks_CardDetail__SubscribeBlock--desktop__oN6vv.ContentBlocks_CardDetail__SubscribeBlock__4zBcQ
+
+! 2021-12-12 https://www.businessinsider.com
+www.businessinsider.com##.popular-video
+www.businessinsider.com##.headline-bold.pfi-disclosure-anchor
+
+! 2021-12-13 https://www.reddit.com
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+
+! 2021-12-14 https://www.cnn.com
+||graphql.verticals.api.cnn.io^$xhr,important
+
+! 2021-12-14 https://www.foxnews.com
+||*/metrics.js*$script
+||*/VisitorAPI.js$script,important
+||*/lytics.js$script,important
+
+! 2021-12-14 https://www.mercurynews.com
+||*/dfm-ad-mods/*,important
+
+! 2021-12-14 https://www.mercurynews.com
+www.mercurynews.com##DIV[class^="article-share"]
+
+! 2021-12-14 https://sfist.com
+sfist.com##.post-full-comments
+
+! 2021-12-14 https://timesofindia.indiatimes.com
+||*/ad-banner-zedo*$image
+||*/AlreadyPrimeToastLoader*$script
+||*/MiniTv*
+
+! 2021-12-14 https://economictimes.indiatimes.com
+||*/js_monetize*
+
+! 2021-12-14 http://astro.lokmat.com
+astro.lokmat.com##.l4.m5.s12.col
+
+! 2021-12-15 https://indianexpress.com
+indianexpress.com##div.other-article:nth-of-type(9)
+indianexpress.com##div.other-article:nth-of-type(10)
+indianexpress.com##div.other-article:nth-of-type(11)
+indianexpress.com##.last.other-article
+
+! 2021-12-16 https://www.ibtimes.com
+www.ibtimes.com##.videocontent
+
+! 2021-12-19 https://www.stgeorgeutah.com
+www.stgeorgeutah.com##.main-top-ad
+www.stgeorgeutah.com##.email_popup
+
+! 2021-12-19 https://www.lokmat.com
+www.lokmat.com##.inarticleAd
+
+! 2021-12-19 https://www.freepressjournal.in
+www.freepressjournal.in##.mobileTop.fpj_rshAd
+www.freepressjournal.in##div.fpj_rshAd
+www.freepressjournal.in##.rightAdd
+www.freepressjournal.in##div.mobileTop.midAdd
+
+! 2021-12-20 https://www.ndtv.com
+||*/push-analytics.js$script,important
+||*/desktop-breakingpush-new.css$stylesheet,important
+
+! 2021-12-20 https://www.carandbike.com
+||*/firebase-app.js$script,important
+||*/firebase-messaging.js$script,important
+||*/facebook_pixel.js$xhr,important
+
+! 2021-12-20 https://food.ndtv.com
+food.ndtv.com##.overlay__side-nav
+food.ndtv.com##.before_taboola.sp-wrp
+
+! 2021-12-21 https://www.robesonian.com
+www.robesonian.com###custom_html-6
+www.robesonian.com###custom_html-11
+www.robesonian.com###custom_html-16
+www.robesonian.com###custom_html-4
+
