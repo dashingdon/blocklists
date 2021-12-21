@@ -170,3 +170,18 @@ www.robesonian.com###custom_html-11
 www.robesonian.com###custom_html-16
 www.robesonian.com###custom_html-4
 
+
+! 2021-12-21 https://www.youtube.com
+||*/stats/*
+
+! 2021-12-21 https://www.breakingviews.com
+www.breakingviews.com##div.ad
+www.breakingviews.com###paywall-overlay
+www.breakingviews.com###paywall-modal
+
+! 2021-12-21 https://www.lancashiretelegraph.co.uk
+www.lancashiretelegraph.co.uk##div.article-extra
+www.lancashiretelegraph.co.uk##.cta-component-contributions.redesign-cta
+
+! 2021-12-21 https://epaper.mid-day.com
+epaper.mid-day.com##.active.register-section
