@@ -185,3 +185,13 @@ www.lancashiretelegraph.co.uk##.cta-component-contributions.redesign-cta
 
 ! 2021-12-21 https://epaper.mid-day.com
 epaper.mid-day.com##.active.register-section
+
+! 2021-12-22 https://www.nytimes.com
+www.nytimes.com##.css-1wspfld
+
+! 2021-12-22 https://www.ndtv.com
+www.ndtv.com##.lazyload.ads_tb-c
+www.ndtv.com##.__footer_ads > div
+
+! 2021-12-22 https://www.cnet.com
+www.cnet.com##.shortcode.pull-right.image-small.image
