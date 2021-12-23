@@ -2,7 +2,36 @@
 prclive4.listenon.in
 www.energybillcruncher.com
 
-# blocked through cloudflare team gateay
+# blocked through cloudflare team gateway
+www.hobsoft.com
+pornxtape.com
+img-9gag-fun.9cache.com
+cdn.pushmaster-cdn.xyz
+shopplyfter.com
+www.paperdue.com
+example.org
+webapp.comiko.net
+comiko.net
+cdn.openowlnow.com
+www.tipico.com
+playdsb.com
+9.raRbG.To
+www.kontakt-vermittler.de
+www.holdempoker.com
+mangaweebs.in
+nona303.com
+totopantura.net
+upicsz.com
+manhuascan.com
+muctau.com
+pics.drugstore.com
+doitdigi.com
+essaysprings.com
+togel360.net
+cdn.tattoosboygirl.com
+ExODUs.DESYNc.cOM
+fiereallestimenti.com
+xendory.com
 muctau.com
 comiko.net
 thepoweltonpizza.com
@@ -222,12 +251,6 @@ www.tumblr.com
 assets.tumblr.com
 
 # porn block
-pornxtape.com
-img-9gag-fun.9cache.com
-cdn.pushmaster-cdn.xyz
-shopplyfter.com
-www.paperdue.com
-example.org
 icexvideo.com
 dateszone.net
 ogjle.dateszone.net
