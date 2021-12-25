@@ -2,8 +2,8 @@
 ##DIV[class^="bxm4mm-4"]
 ##[class^="textads"]
 ##DIV[class^="article-share"]
-||$csp=worker-src 'none'
-@@$csp=worker-src 'none',domain=~whatsapp.comm
+!||$csp=worker-src 'none'
+!@@$csp=worker-src 'none',domain=~whatsapp.comm
 !@@$csp=worker-src 'none',domain=~youtube.com
 !@@$csp=worker-src 'none',domain=~nextdoor.com
 !@@$csp=worker-src 'none',domain=~chipotle.com
@@ -21,8 +21,30 @@ xads.js$script,important
 _analytics
 ||*video.mp4*$important
 ||*/video/*$important
+||*consent-banner$important
+||*/pageview_candidate.cms$important
+! 2021-12-14 https://www.cnn.com
+||graphql.verticals.api.cnn.io^$xhr,important
+||*/metrics.js*$script
+||*/VisitorAPI.js$script,important
+||*/lytics.js$script,important
+||*/dfm-ad-mods/*,important
 lodash.core.js$script,important
 data-collection.min.js$script,important
+||*/ad-banner-zedo*$image
+||*/AlreadyPrimeToastLoader*$script
+||*/MiniTv*
+||*/js_monetize*
+||*/stats/*
+||*/push-analytics.js$script,important
+||*/desktop-breakingpush-new.css$stylesheet,important
+||*/firebase-app.js$script,important
+||*/firebase-messaging.js$script,important
+||*/facebook_pixel.js$xhr,important
+||*/segment.js?cb=SXQncyBncmVhdCB0byBiZSBhbGl2ZS4$script,important
+||c.amazon-adsystem.com^$script,important
+||nexus.ensighten.com^$script,important
+||www.youtube.com/api/stats/*$xhr,important
 homedepot.com#@#+js(no-floc)
 walmart.com#@#+js(no-floc)
 facebook.com##+js(set, navigator.cookieEnabled, false)
@@ -49,9 +71,13 @@ timesofindia.indiatimes.com##[class^="div-gpt-ad-"]
 #www.loksatta.com##.desk-ad-bg-container
 #www.loksatta.com##div[wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit]
 www.loksatta.com##[class^="wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit"]
+! 2021-12-25 https://www.loksatta.com
+www.loksatta.com##.desk-ad-bg-container
 
 ! 2021-12-09 https://www.esakal.com
 www.esakal.com##.show.gm-observing-cb.gm-observing
+! 2021-12-25 https://www.esakal.com
+www.esakal.com##.fc-paywall-container
 
 ! 2021-12-09 https://www.policygenius.com
 #www.policygenius.com##div.fHcAex.Newsletter__Container-sc-1x1k1pi-0
@@ -67,17 +93,6 @@ www.foxbusiness.com##[class^="pre-content"]
 ! 2021-12-09 https://www.foxnews.com
 ||js.taplytics.com/jssdk/34c3ab59aa2e43688b7e00293b792632.min.js?adobe_evar=eVar65&adobe_obj=omtr$script,domain=www.foxnews.com,important
 
-! 2021-12-09 https://my.foxnews.com
-||*/segment.js?cb=SXQncyBncmVhdCB0byBiZSBhbGl2ZS4$script,important
-
-! 2021-12-09 https://www.foxbusiness.com
-||c.amazon-adsystem.com^$script,important
-
-! 2021-12-09 https://www.sfchronicle.com
-||nexus.ensighten.com^$script,important
-
-! 2021-12-09 https://www.youtube.com
-||www.youtube.com/api/stats/*$xhr,important
 
 ! 2021-12-10 https://www.indiatimes.com
 www.indiatimes.com###div[class$="block-"]
@@ -101,33 +116,23 @@ www.businessinsider.com##.headline-bold.pfi-disclosure-anchor
 ! 2021-12-13 https://www.reddit.com
 www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 
-! 2021-12-14 https://www.cnn.com
-||graphql.verticals.api.cnn.io^$xhr,important
-
-! 2021-12-14 https://www.foxnews.com
-||*/metrics.js*$script
-||*/VisitorAPI.js$script,important
-||*/lytics.js$script,important
-
-! 2021-12-14 https://www.mercurynews.com
-||*/dfm-ad-mods/*,important
-
 ! 2021-12-14 https://www.mercurynews.com
 www.mercurynews.com##DIV[class^="article-share"]
 
 ! 2021-12-14 https://sfist.com
 sfist.com##.post-full-comments
 
-! 2021-12-14 https://timesofindia.indiatimes.com
-||*/ad-banner-zedo*$image
-||*/AlreadyPrimeToastLoader*$script
-||*/MiniTv*
-
-! 2021-12-14 https://economictimes.indiatimes.com
-||*/js_monetize*
-
 ! 2021-12-14 http://astro.lokmat.com
 astro.lokmat.com##.l4.m5.s12.col
+! 2021-12-25 https://www.lokmat.com
+||*googleAdsPlugin*$script,important
+||*/notifier*$xhr,important
+www.lokmat.com##.otbxOverlay
+www.lokmat.com##.show.otbxWrapper
+! 2021-12-19 https://www.lokmat.com
+www.lokmat.com##.inarticleAd
+! 2021-12-25 https://www.lokmat.com
+www.lokmat.com###headerBanner
 
 ! 2021-12-15 https://indianexpress.com
 indianexpress.com##div.other-article:nth-of-type(9)
@@ -142,23 +147,11 @@ www.ibtimes.com##.videocontent
 www.stgeorgeutah.com##.main-top-ad
 www.stgeorgeutah.com##.email_popup
 
-! 2021-12-19 https://www.lokmat.com
-www.lokmat.com##.inarticleAd
-
 ! 2021-12-19 https://www.freepressjournal.in
 www.freepressjournal.in##.mobileTop.fpj_rshAd
 www.freepressjournal.in##div.fpj_rshAd
 www.freepressjournal.in##.rightAdd
 www.freepressjournal.in##div.mobileTop.midAdd
-
-! 2021-12-20 https://www.ndtv.com
-||*/push-analytics.js$script,important
-||*/desktop-breakingpush-new.css$stylesheet,important
-
-! 2021-12-20 https://www.carandbike.com
-||*/firebase-app.js$script,important
-||*/firebase-messaging.js$script,important
-||*/facebook_pixel.js$xhr,important
 
 ! 2021-12-20 https://food.ndtv.com
 food.ndtv.com##.overlay__side-nav
@@ -169,7 +162,6 @@ www.robesonian.com###custom_html-6
 www.robesonian.com###custom_html-11
 www.robesonian.com###custom_html-16
 www.robesonian.com###custom_html-4
-
 
 ! 2021-12-21 https://www.youtube.com
 ||*/stats/*
@@ -195,3 +187,74 @@ www.ndtv.com##.__footer_ads > div
 
 ! 2021-12-22 https://www.cnet.com
 www.cnet.com##.shortcode.pull-right.image-small.image
+
+! 2021-12-23 https://www.yahoo.com
+www.yahoo.com##.caas-yvideo-top.caas-yvideo
+www.yahoo.com##.caas-cover.caas-hero.yvideo.caas-yvideo-player.caas-yvideo-wrapper
+
+! 2021-12-23 https://news.yahoo.com
+news.yahoo.com##.caas-yvideo-top.caas-yvideo
+news.yahoo.com##.caas-cover.caas-hero.yvideo.caas-yvideo-player.caas-yvideo-wrapper
+news.yahoo.com###close-button-section
+news.yahoo.com##.caas-iframe-wrapper
+
+! 2021-12-23 https://www.yahoo.com
+www.yahoo.com##.yvideo.caas-yvideo-player.caas-yvideo-wrapper
+
+! 2021-12-23 https://www.usatoday.com
+www.usatoday.com##.gnt_n_nc__hbn.gnt_n_sm
+
+! 2021-12-23 https://www.az511.gov
+www.az511.gov##.adsContainerTop.row
+
+! 2021-12-23 https://morethingsjapanese.com
+morethingsjapanese.com##.widget_block.widget
+
+! 2021-05-22 https://www.bbc.com
+||*/bundle-footer-promos*.js$script,domain=www.bbc.com,important
+||*/bundle-dotcom-ad*.js$script,domain=www.bbc.com,important
+
+! 2021-05-22 https://timesofindia.indiatimes.com
+||*/GenderPopup*.chunk.js$script,domain=timesofindia.indiatimes.com,important
+
+! 2020-12-09 https://timesofindia.indiatimes.com
+||api.ibeat-analytics.com^$image,domain=timesofindia.indiatimes.com,important
+||static.toiimg.com/ad-banner-zedo/*$image,domain=timesofindia.indiatimes.com,important
+
+! 2021-12-23 https://news.google.com
+||play.google.com/log*$xhr,important
+
+! 2021-12-23 https://www.cbsnews.com
+www.cbsnews.com##.is-hero.embed--size-medium.embed--float-none.is-video.embed--type-content_video.embed--type-video.embed
+www.cbsnews.com##.embed__content-wrapper
+
+! 2021-12-23 https://www.nbcsandiego.com
+www.nbcsandiego.com##.archive-ad__full-width
+
+! 2021-12-25 https://gizmodo.com
+##.js_desktop-horizontal-ad
+||*trackers*$script,important
+
+! 2021-12-25 https://gizmodo.com
+##.initialized.instream-native-video--frontpage
+
+! 2021-12-25 https://theinventory.com
+##.js_sidebar-edit-video
+
+! 2021-12-25 https://lifehacker.com
+||*/ccpa.js$script
+
+! 2021-12-25 https://indiabix.com
+indiabix.com##.div-ad-wrapper-bvf.hide-1
+
+! 2021-12-25 http://epaper.saamana.com
+epaper.saamana.com##.add-slot
+
+! 2021-12-25 https://maharashtratimes.com
+||*topstory_popup*$xhr,important
+maharashtratimes.com##.orange.top-stories-modal
+maharashtratimes.com##.topStorieswrap
+maharashtratimes.com##.gray.top-stories-modal
+maharashtratimes.com##.pwa-deals.wdt_amz
+maharashtratimes.com##.alaskamasthead
+||*comscore-streaming*$script,important
