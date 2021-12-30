@@ -234,6 +234,7 @@ ustats-app.schoology.com
 debug.opendns.com
 
 # General
+insights-collector.newrelic.com
 min-api.cryptocompare.com
 fq2h9152m63.statuspage.io
 statuspage.io
@@ -353,4 +354,4 @@ auth.macphun.com
 stats-api.skylum.com
 api.photolemur.com
 media.macphun.com
-127.0.0.1 luminaraiwin.skylum.com
+luminaraiwin.skylum.com
