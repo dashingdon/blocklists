@@ -1,5 +1,9 @@
 # amazon / imdb video ads
 avodmp4s3ww-a.akamaihd.net
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+api.us-east-1.aiv-delivery.net
+fls-na.amazon.com
+atv-ps.amazon.com
 
 # radio garden
 prclive4.listenon.in
