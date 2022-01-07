@@ -10,6 +10,7 @@ prclive4.listenon.in
 www.energybillcruncher.com
 
 # blocked through cloudflare team gateway
+init.supersonicads.com
 beacon.shazam.com
 outcome-ssp.supersonicads.com
 player-telemetry.vimeo.com
