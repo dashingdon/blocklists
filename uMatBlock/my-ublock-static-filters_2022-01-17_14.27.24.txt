@@ -4,9 +4,6 @@
 ##DIV[class^="article-share"]
 !||$csp=worker-src 'none'
 !@@$csp=worker-src 'none',domain=~whatsapp.comm
-!@@$csp=worker-src 'none',domain=~youtube.com
-!@@$csp=worker-src 'none',domain=~nextdoor.com
-!@@$csp=worker-src 'none',domain=~chipotle.com
 !||*/vendors~adEditor~$script
 !||*~adManager$script
 ||*bundle-footer-promos*.js$script,important
@@ -49,14 +46,6 @@ homedepot.com#@#+js(no-floc)
 walmart.com#@#+js(no-floc)
 facebook.com##+js(set, navigator.cookieEnabled, false)
 ||washingtonpost.com/pwapiv2/$xhr,1p
-
-! 2021-12-09 https://outlook.live.com
-!outlook.live.com##._1fti_QgAzqGWPGlqh_FSvI
-!outlook.live.com##._28ithXDZzMqSN0YAG2rCVn
-
-! 2021-12-09 https://www.mercurynews.com
-!www.mercurynews.com##.article-share
-!www.mercurynews.com##.sign-up-follow
 
 ! 2021-12-09 https://www.mercurynews.com
 www.mercurynews.com###mobile-adhesion
@@ -258,3 +247,275 @@ maharashtratimes.com##.gray.top-stories-modal
 maharashtratimes.com##.pwa-deals.wdt_amz
 maharashtratimes.com##.alaskamasthead
 ||*comscore-streaming*$script,important
+
+! 2021-12-25 https://www.firstpost.com
+www.firstpost.com##.ad-combo
+
+! 2021-12-25 https://www.sanluisobispo.com
+www.sanluisobispo.com###subscription-cta-container
+
+! 2021-12-26 https://www.fresnobee.com
+!www.fresnobee.com###subscription-cta-container
+!###subscription-cta-container
+##[id="subscription-cta-container"]
+
+! 2021-12-26 https://rampedup.us
+rampedup.us##.page-end-cta
+
+! 2021-12-26 https://www.cnn.com
+www.cnn.com##.Article__promo.Article__zone.Zone__component
+! 2021-12-26 https://www.cnn.com
+www.cnn.com##.Zone__isBleed.Zone__component
+
+! 2021-12-26 https://www.amazon.com
+||*/usage*$xhr,important
+||api.us-east-1.aiv-delivery.net/Events/*$xhr,important
+||*dash.row.aiv-cdn.net/*$xhr,important
+
+! 2021-12-26 https://www.tahoedailytribune.com
+www.tahoedailytribune.com##.pl-4.pr-4.pb-4.pt-3.col-xl-7
+
+! 2021-12-27 https://nypost.com
+||*videojs-pip*$script,important
+nypost.com##[id^="wpcom-iframe"]
+
+! 2021-12-27 https://www.the-sun.com
+||*/sw.js$script,important
+
+! 2021-12-27 https://www.usatoday.com
+||*cookieconsentpub*$script,important
+www.usatoday.com##.gnt_rr
+www.usatoday.com##.gnt_em_vp__tavp.gnt_em
+
+! 2021-12-27 https://www.reuters.com
+||*/gtm.js*$script,important
+
+! 2021-12-27 https://www.ghacks.net
+www.ghacks.net##div.box-banner
+
+! 2021-12-27 https://www.fool.com
+www.fool.com##.special-message
+
+! 2021-12-28 https://www.siasat.com
+www.siasat.com###vuukle-emote
+
+! 2021-12-28 https://www.thequint.com
+www.thequint.com##._3VDj4._2rfj4
+
+! 2021-12-28 https://www.freep.com
+www.freep.com##.gnt_em_vp__tavp.gnt_em
+
+! 2021-12-29 https://www.healthline.com
+www.healthline.com##.css-umsscj
+
+! 2021-12-30 https://www.cloudsavvyit.com
+www.cloudsavvyit.com###notificationAllowPrompt
+
+! 2021-12-31 https://www.mymotherlode.com
+||*/aos.js*$script,important
+
+! 2021-12-31 https://telugustop.com
+telugustop.com##.breaking-slide-footer-fixed
+
+! 2022-01-02 https://www.lokmat.com
+www.lokmat.com###headerBannerBelow
+
+! 2022-01-03 https://www.mid-day.com
+www.mid-day.com##.d-md-block.d-none.mx-auto.w-75.bg-grey.text-center
+
+! 2022-01-05 https://www.wsj.com
+www.wsj.com###share-target
+www.wsj.com##.media-object-article-reader
+
+! 2022-01-06 https://www.wavy.com
+www.wavy.com##.article-featured-media
+
+! 2022-01-06 https://www.star-telegram.com
+||*/classad_widget/*$script,important
+
+! 2022-01-06 https://www.thestar.com.my
+www.thestar.com.my##.cpe-195e8.dailymotion-cpe
+www.thestar.com.my##.iframe-container
+www.thestar.com.my###ifnewsletter
+||*cookie.js$script,important
+
+! 2022-01-06 https://www.theepochtimes.com
+||*/counts?*$xhr,important
+
+! 2022-01-06 https://www.itv.com
+||*/collector$xhr,important
+
+! 2022-01-06 https://www.politico.com
+www.politico.com##.sign-up-21
+
+! 2022-01-06 https://www.investors.com
+||*/tracks*$xhr,important
+www.investors.com##.player-minimize.shortcode-video
+www.investors.com##.market-promo
+||*/paywall*$stylesheet,important
+www.investors.com###topBanner
+www.investors.com##.stickyNavBarMobile
+
+! 2022-01-07 https://regex101.com
+regex101.com##.XNbml.jyUE5
+
+! 2022-01-09 https://www.nytimes.com
+www.nytimes.com##.css-igpnju.sizeLarge
+||*adslot*$xhr,important
+||*cookiepolicy*$xhr,important
+||*privacypolicy*$xhr,important
+||*privacy*$xhr,important
+||*ShareToolbar*$xhr,important
+||*privatepolicy*$xhr,important
+
+! 2022-01-09 https://www.insider.com
+www.insider.com##.post-content-more
+
+! 2022-01-09 https://www.hindustantimes.com
+||*ads.min.js*$script,important
+www.hindustantimes.com##.trendingSlider
+||*lozad.min.js$script,important
+||static.chartbeat.com*$script,important
+||*$generichide,important
+
+! 2022-01-09 https://www.fresnobee.com
+||*yozons-lib*$script,important
+
+! 2022-01-09 https://www.ndtv.com
+||*analytics.js$script,important
+||cdn.taboola.com*$script,important
+||*firebasejs*$script,important
+
+! 2022-01-09 https://social.ndtv.com
+||*jquery.cookie.min.js$script,important
+
+! 2022-01-09 https://www.sfgate.com
+||*/revenue.min.js*$script,important
+||*treg.min*$important
+
+! 2022-01-09 https://www.sltrib.com
+||*ad-video*1$script,important
+||*ad-slider*$script,important
+
+! 2022-01-09 https://www.indiatoday.in
+||*advt*$xhr,important
+||*advagg_js*$script,important
+
+! 2022-01-09 https://www.saamtv.com
+www.saamtv.com##.cy-player
+
+! 2022-01-09 https://www.fox5vegas.com
+||*adverts*$script,important
+
+! 2022-01-09 https://www.newsweek.com
+www.newsweek.com##div.promo-link
+www.newsweek.com##.block-ibtmedia-facebook.block
+www.newsweek.com##.col-md-9
+www.newsweek.com###spotim-sidemodule
+
+! 2022-01-09 https://www.freep.com
+||*video-renditions*$xhr,important
+
+! 2022-01-09 https://www.wired.com
+||*/ads.js$xhr,important
+
+! 2022-01-09 https://www.telecompetitor.com
+www.telecompetitor.com##.telecompetitor-ad-with-copy
+
+! 2022-01-10 https://thehill.com
+||*sb.scorecardresearch.com*$script,important
+thehill.com##.player-container
+
+! 2022-01-10 https://weather.com
+weather.com##.VideoPlaylist--nativeAd--3x_vs
+
+! 2022-01-10 https://lineageosroms.com
+lineageosroms.com##.chlebek
+
+! 2022-01-10 https://www.dailymail.co.uk
+||*/promoboxes*$image,important
+
+! 2022-01-11 https://9to5mac.com
+||*/adsbygoogle.js$script,important
+
+! 2021-12-04 https://www.bbc.com
+www.bbc.com###u6096919507446064
+
+! 2021-12-21 https://www.hrw.org
+www.hrw.org##.donation-block
+
+! 2021-12-21 https://www.theguardian.com
+||*/ccpa.js$script,important
+
+! 2022-01-07 https://www.thedailybeast.com
+||*~advertising~*$script,important
+
+! 2022-01-08 https://www.argusleader.com
+||cdn.cookielaw.org/*$other,important
+www.argusleader.com##.gnt_em__el.gnt_em_vp__tp.gnt_em__fp.gnt_em
+||*/video-renditions/*$xhr,important
+
+! 2022-01-11 https://www.linkedin.com
+||*/track$xhr,important
+
+! 2022-01-11 https://indianexpress.com
+||*_ad.js*$script,important
+||*-ad-code.js*$script,important
+||*-tracking.js*$script,important
+||*taboola*$script,1p
+
+! 2022-01-11 https://decider.com
+decider.com##.dfp-rec_hp_atf__placeholder.widget_nypost_decider_dfp_ad.module.box
+
+! 2022-01-14 https://www.mprnews.org
+www.mprnews.org##.undefined.donateAsk
+
+! 2022-01-14 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##._3JJMX
+
+! 2022-01-15 https://www.bizjournals.com
+||*/promos?*$xhr,important
+||*cxense.js*$script,important
+
+! 2022-01-15 https://www.independent.co.uk
+www.independent.co.uk##div.bmwguk.sc-ktgcGF
+www.independent.co.uk##.gXRltE.sc-dqpyCI
+www.independent.co.uk##.dIVMPP.sc-czUMMz.hqfQcC.sc-hmfrgR
+
+! 2022-01-16 https://www.globalresearch.ca
+||*/cookie-notice*$stylesheet,important
+
+! 2022-01-16 https://www.telegraphindia.com
+www.telegraphindia.com##.col-4
+www.telegraphindia.com##.ttdadbox310.pb-3.uk-background-muted.text-center
+www.telegraphindia.com##.ad280
+www.telegraphindia.com##.adtext
+
+! 2022-01-16 https://www.telegraphindia.com
+www.telegraphindia.com##[class*="adbox"]
+
+! 2022-01-16 https://www.straitstimes.com
+||*betterads*$script,important
+||*betterads*$stylesheet,important
+||*cookie.shim.js*$script,important
+
+! 2022-01-16 https://hamodia.com
+hamodia.com##.bypass_ad_checks
+
+! 2022-01-16 https://www.independent.com.mt
+||*/ads-iframe*$xhr,important
+
+! 2022-01-16 https://www.fbcnews.com.fj
+www.fbcnews.com.fj##.site-sponsor-advert
+www.fbcnews.com.fj###fbc-sl
+
+! 2022-01-16 https://www.thehindu.com
+||consent.truste.com*$script,important
+
+! 2022-01-17 https://news.sky.com
+||*analytics*$script,important
+news.sky.com##.sdc-site-au-wrapper
+
+! 2022-01-17 https://www.skygroup.sky
+||consentmanagement*$important
+
