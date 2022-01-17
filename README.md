@@ -2,5 +2,5 @@
 blocklists for pihole
 
 ## uMatrix and uBlockOrigin
-default ruleset
-
+- default ruleset
+- static ruleset
