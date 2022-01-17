@@ -1,2 +1,6 @@
-# blocklists
-my blocklists for pihole,uBlockOrigin,AdBlock<br>automation testing
+## blocklists
+blocklists for pihole
+
+## uMatrix and uBlockOrigin
+- default ruleset
+- static ruleset
