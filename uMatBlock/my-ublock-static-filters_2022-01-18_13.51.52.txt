@@ -519,3 +519,32 @@ news.sky.com##.sdc-site-au-wrapper
 ! 2022-01-17 https://www.skygroup.sky
 ||consentmanagement*$important
 
+! 2022-01-18 https://www.phonearena.com
+www.phonearena.com###pa-survey-modal
+www.phonearena.com##.pa-in.pa-fade.pa-modal-backdrop
+
+! 2022-01-18 https://www.independent.co.uk
+www.independent.co.uk##.fqOChx.sc-eKqHjn
+
+! 2022-01-18 https://www.bernama.com
+||*/crawler*$important
+www.bernama.com##[Id*=jssor]
+
+! 2022-01-18 https://indianexpress.com
+||*newsletter.js$script,important
+
+! 2022-01-18 https://abcnews.go.com
+||*/unid.min.js$script,important
+
+! 2022-01-18 https://www.koin.com
+||*/segment.js$script,important
+
+! 2022-01-18 https://www.staradvertiser.com
+||*/sa_ads*$important
+
+! 2022-01-18 https://principia-scientific.com
+||*pixel.gif$important
+
+! 2022-01-18 https://www.cnet.com
+www.cnet.com##.media-source.shortcode
+
