@@ -9,13 +9,15 @@
 ||*bundle-footer-promos*.js$script,important
 ||*ads.js$script,important
 ||*/js.cookie.min.js$script
-omtr_code.js$script,important
-_visitorId.js$script,important
-_analytics*.js$script,important
-count.js$script,important
-xads.js$script,important
-/analytics-dotcom/*
-_analytics
+!!!!
+||omtr_code.js$script,important
+||_visitorId.js$script,important
+||_analytics*.js$script,important
+||count.js$script,important
+||xads.js$script,important
+||/analytics-dotcom/*
+||_analytics
+!!!!
 ||*video.mp4*$important
 ||*/video/*$important
 ||*consent-banner$important
@@ -44,6 +46,9 @@ data-collection.min.js$script,important
 ||www.youtube.com/api/stats/*$xhr,important
 homedepot.com#@#+js(no-floc)
 walmart.com#@#+js(no-floc)
+#fidelity full view fix
+digital.fidelity.com#@#+js(no-floc)
+wealth.emaplan.com#@#+js(no-floc)
 facebook.com##+js(set, navigator.cookieEnabled, false)
 ||washingtonpost.com/pwapiv2/$xhr,1p
 
@@ -547,4 +552,21 @@ www.bernama.com##[Id*=jssor]
 
 ! 2022-01-18 https://www.cnet.com
 www.cnet.com##.media-source.shortcode
+
+! 2022-01-20 https://finance.yahoo.com
+finance.yahoo.com##.caas-iframe-wrapper
+finance.yahoo.com##.caas-loaded.has-preview.caas-lazy.caas-img
+finance.yahoo.com###module-articleFinPremUpsell
+||*consentRecord$important
+||*-subscription*$important
+finance.yahoo.com##[class*=yvideo]
+finance.yahoo.com##.MON-status-ok
+
+! 2022-01-20 https://variety.com
+||*sonar.min.js$script,important
+||*authenticate_by_ip*$important
+
+! 2022-01-20 https://thehill.com
+||*count-data.js*$important
+||*/count.js$script,important
 
