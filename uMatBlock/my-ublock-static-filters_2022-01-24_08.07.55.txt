@@ -46,7 +46,7 @@ data-collection.min.js$script,important
 ||www.youtube.com/api/stats/*$xhr,important
 homedepot.com#@#+js(no-floc)
 walmart.com#@#+js(no-floc)
-#fidelity full view fix
+!fidelity full view fix
 digital.fidelity.com#@#+js(no-floc)
 wealth.emaplan.com#@#+js(no-floc)
 facebook.com##+js(set, navigator.cookieEnabled, false)
@@ -404,7 +404,6 @@ www.hindustantimes.com##.trendingSlider
 
 ! 2022-01-09 https://www.indiatoday.in
 ||*advt*$xhr,important
-||*advagg_js*$script,important
 
 ! 2022-01-09 https://www.saamtv.com
 www.saamtv.com##.cy-player
@@ -569,4 +568,55 @@ finance.yahoo.com##.MON-status-ok
 ! 2022-01-20 https://thehill.com
 ||*count-data.js*$important
 ||*/count.js$script,important
+
+! 2022-01-21 https://nextdoor.com
+nextdoor.com##div.css-1fvp18l:nth-of-type(1) > .css-1fi2h10
+
+! 2022-01-21 https://www.independent.co.uk
+www.independent.co.uk##.iHXhBl.sc-gITJsd
+
+! 2022-01-21 https://www.indiatoday.in
+||*izooto*$important
+
+! 2022-01-21 https://www.businesstoday.in
+www.businesstoday.in##.subscriptionBt-outer
+
+! 2022-01-21 https://www.gnttv.com
+www.gnttv.com##.video-more-info
+
+! 2022-01-21 https://www.indiatoday.in
+www.indiatoday.in###twister
+www.indiatoday.in###txt_audio
+
+! 2022-01-21 https://www.courier-journal.com
+www.courier-journal.com##.gnt_em_vp__tavp.gnt_em
+
+! 2022-01-21 https://www.straitstimes.com
+www.straitstimes.com##.paragraph--view-mode--default.paragraph--type--remote-video.paragraph
+
+! 2022-01-22 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.addblock
+||ade.clmbtech.com*$important
+
+! 2022-01-23 https://article.wn.com
+article.wn.com##.mB30.main-article-video
+
+! 2022-01-23 https://ktla.com
+ktla.com##.article-featured-media
+
+! 2022-01-23 https://www.espn.com
+www.espn.com##.hide-fullbtn
+
+! 2022-01-23 https://www.jsonline.com
+||*/video-renditions*$important
+www.jsonline.com##.gnt_em_vp__tavp.gnt_em
+||*/comscore*$important
+www.jsonline.com##.gnt_em_fo__bet-best.gnt_em
+www.jsonline.com##[class^=gnt_n_sm]
+
+! 2022-01-23 https://www.usatoday.com
+www.usatoday.com##.gnt_em__el.gnt_em_vp__tp.gnt_em__fp.gnt_em
+
+! 2022-01-24 https://www.politico.com
+www.politico.com##[class^=styles_PibAd-container]
 
