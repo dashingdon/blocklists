@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1643040531927,
+  "when": 1643309179707,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -353,6 +353,8 @@
     "duracellpower.com upsells.boldapps.net script allow",
     "dvhigh.net schoolloop.com * allow",
     "ecosia.org www.bing.com xhr allow",
+    "eliteprep.com cloudflare.com cookie allow",
+    "eliteprep.com eliteprep.com cookie allow",
     "endeavouros.com c0.wp.com script allow",
     "endeavouros.com cdn.canyonthemes.com script allow",
     "esakal.com cdn.gumlet.com script allow",
@@ -426,6 +428,7 @@
     "frontsteps.cloud frontsteps.cloud cookie allow",
     "fsastore.com fsastore.com cookie allow",
     "fsastore.com google.com cookie allow",
+    "futurefund.com futurefund.com cookie allow",
     "garmin.com cdn.jsdelivr.net script allow",
     "geapplianceparts.com www.geappliances.com script allow",
     "gearbest.com gbtcdn.com * allow",

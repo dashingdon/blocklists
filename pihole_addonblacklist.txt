@@ -10,6 +10,25 @@ prclive4.listenon.in
 www.energybillcruncher.com
 
 # blocked through cloudflare team gateway
+www.gizchina.com
+www.incestflix.com
+www.thedodo.com
+app-measurement.com
+om.forgeofempires.com
+www.lendgo.com
+www.lendingtree.com
+ck.lendingtree.com
+cookie-cdn.cookiepro.com
+check.analytics.rlcdn.com
+smarteucookiebanner.upsell-apps.com
+simplisafe.com
+cuantomide.net
+a2.dajunbi.com
+xxxdata.net
+www.voyeurd.com
+www.manyvids.com
+www.cheapjoes.com
+teenpornb.com
 manifest.localytics.com
 geoip5m1y07.admix.in
 admix.in
