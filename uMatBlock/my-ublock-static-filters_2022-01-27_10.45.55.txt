@@ -417,9 +417,6 @@ www.newsweek.com##.block-ibtmedia-facebook.block
 www.newsweek.com##.col-md-9
 www.newsweek.com###spotim-sidemodule
 
-! 2022-01-09 https://www.freep.com
-||*video-renditions*$xhr,important
-
 ! 2022-01-09 https://www.wired.com
 ||*/ads.js$xhr,important
 
@@ -457,7 +454,6 @@ www.hrw.org##.donation-block
 ! 2022-01-08 https://www.argusleader.com
 ||cdn.cookielaw.org/*$other,important
 www.argusleader.com##.gnt_em__el.gnt_em_vp__tp.gnt_em__fp.gnt_em
-||*/video-renditions/*$xhr,important
 
 ! 2022-01-11 https://www.linkedin.com
 ||*/track$xhr,important
@@ -619,4 +615,53 @@ www.usatoday.com##.gnt_em__el.gnt_em_vp__tp.gnt_em__fp.gnt_em
 
 ! 2022-01-24 https://www.politico.com
 www.politico.com##[class^=styles_PibAd-container]
+
+! 2022-01-25 https://www.bloomberg.com
+||*OverlayAd*$important
+||*ad_choices*$important
+||login.bloomberg.com/user-info$important
+||*/tracking/*$important
+||*LeaderboardAd*$important
+||*SuperburstAd*$important
+||*client-log$important
+||*/rate-plan-info$important
+
+! 2022-01-25 https://arstechnica.com
+arstechnica.com##.inline-playlist
+
+! 2022-01-25 https://hbr.org
+hbr.org##li.sponsored
+
+! 2022-01-25 https://brainly.com
+brainly.com##.sg-overlay--dark.sg-overlay
+
+! 2022-01-25 https://study.com
+||*cookie*$important
+
+! 2022-01-25 https://hbr.org
+hbr.org##article-promo.promo--half.article-promo
+
+! 2022-01-25 https://www.independent.co.uk
+www.independent.co.uk##div.iOBsOR.sc-idSkFk
+||*/ccpa*$important
+www.independent.co.uk##.iyJcVq.sc-cujvzp
+www.independent.co.uk##[class^=sc-cCgVIB]
+
+! 2022-01-25 https://www.nbcchicago.com
+www.nbcchicago.com##.tpPlayer
+www.nbcchicago.com##.video-flyout
+
+! 2022-01-26 https://www.mylife.com
+www.mylife.com##.ccpa-container
+
+! 2022-01-26 https://boston.cbslocal.com
+boston.cbslocal.com###featured-media
+boston.cbslocal.com###cbs_ott_widget-4
+
+! 2022-01-27 https://www.fxempire.com
+www.fxempire.com##.ioklmO
+www.fxempire.com##.hZtPnC
+
+! 2022-01-27 https://www.investors.com
+||*ad.info.js$important
 
