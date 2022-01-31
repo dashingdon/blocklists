@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1643309179707,
+  "when": 1643603251868,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -799,6 +799,7 @@
     "matrix-off: byu.edu true",
     "matrix-off: ca.gov true",
     "matrix-off: californiabikeandsnowboard.com true",
+    "matrix-off: californiacolleges.edu true",
     "matrix-off: cannondale.com true",
     "matrix-off: ccclib.org true",
     "matrix-off: cccounty.us true",
@@ -999,6 +1000,7 @@
     "msn.com twitter.com frame allow",
     "msn.com virtualearth.net * allow",
     "msn.com weather.microsoft.com * allow",
+    "myiclubonline.com myiclubonline.com cookie allow",
     "myloandepot.com connect2.finicity.com script allow",
     "myloandepot.com loandepot.com * allow",
     "myloandepot.com mla-publicapi.loandepot.com xhr allow",
