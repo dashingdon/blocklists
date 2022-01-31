@@ -665,3 +665,50 @@ www.fxempire.com##.hZtPnC
 ! 2022-01-27 https://www.investors.com
 ||*ad.info.js$important
 
+! 2022-01-29 https://www.hindustantimes.com
+www.hindustantimes.com##.new__newsletter__signup
+
+! 2022-01-30 https://abc7news.com
+||*embed-video-player.min.js$script,important
+abc7news.com##.type-video.headline-list-item.top-media
+||*chimney.min.js$script,important
+abc7news.com##.inner.watch
+abc7news.com##.newsletter-featured.newsletter-mobile
+abc7news.com##div.placeholderWrapper:nth-of-type(3)
+abc7news.com##div.placeholderWrapper:nth-of-type(2)
+abc7news.com##.social
+abc7news.com##.side-right.side
+
+! 2022-01-30 https://www.mid-day.com
+www.mid-day.com##[class*=social-icons-inline]
+||*popup.min.js$important
+
+! 2022-01-30 https://www.engadget.com
+||*adbuilder*$important
+
+! 2022-01-30 https://www.bloomberg.com
+||*/core_vitals*$important
+
+! 2022-01-30 https://fox8.com
+fox8.com##.article-featured-media
+
+! 2022-01-31 https://www.theguardian.com
+www.theguardian.com##.dcr-10khgmf
+www.theguardian.com##.dcr-1sqs3x6
+www.theguardian.com##.dcr-1038kzh
+||*/newsletterEmbedIframe*$important
+||*coreVitals*$important
+www.theguardian.com###opinion-email-us
+
+! 2022-01-31 https://www.urdupoint.com
+www.urdupoint.com##[id$=banner-wrap]
+
+! 2022-01-31 https://account.sanluisobispo.com
+||*/validator-*$important
+
+! 2022-01-31 https://amp.sanluisobispo.com
+amp.sanluisobispo.com##.amp-show-paywall
+
+! 2022-01-31 https://www.bizjournals.com
+www.bizjournals.com###MarketSubOffer
+
