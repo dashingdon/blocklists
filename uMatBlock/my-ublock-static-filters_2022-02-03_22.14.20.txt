@@ -649,7 +649,7 @@ www.independent.co.uk##[class^=sc-cCgVIB]
 
 ! 2022-01-25 https://www.nbcchicago.com
 www.nbcchicago.com##.tpPlayer
-www.nbcchicago.com##.video-flyout
+!  www.nbcchicago.com##.video-flyout
 
 ! 2022-01-26 https://www.mylife.com
 www.mylife.com##.ccpa-container
@@ -711,4 +711,9 @@ amp.sanluisobispo.com##.amp-show-paywall
 
 ! 2022-01-31 https://www.bizjournals.com
 www.bizjournals.com###MarketSubOffer
+
+! 2022-02-04 https://www.technologyreview.com
+www.technologyreview.com##.is-style-large.wp-block-quote
+www.technologyreview.com##[class*=PromoModule]
+www.technologyreview.com##.headerTemplate__navigation--3N0Bf
 
