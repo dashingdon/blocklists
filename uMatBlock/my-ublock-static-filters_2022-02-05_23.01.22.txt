@@ -717,3 +717,26 @@ www.technologyreview.com##.is-style-large.wp-block-quote
 www.technologyreview.com##[class*=PromoModule]
 www.technologyreview.com##.headerTemplate__navigation--3N0Bf
 
+! 2022-02-05 https://www.tmz.com
+www.tmz.com##.fullscreen.floating.video__error-modal
+
+! 2022-02-06 https://www.lokmat.com
+www.lokmat.com##.messanger-btn
+www.lokmat.com##.follow-btn
+||*jssocial*$important
+
+! 2022-02-06 https://infotel.ca
+infotel.ca##.banner_top
+||*/newsletter*$important
+||*/popover*$important
+
+! 2022-02-06 https://www.bloomberg.com
+||*-unsupported-browser/*$important
+
+! 2022-02-06 https://menafn.com
+menafn.com##.body-innerwrapper > div
+
+! 2022-02-06 https://www.huffpost.com
+||*/Modal*$important
+||*?device=desktop$important
+

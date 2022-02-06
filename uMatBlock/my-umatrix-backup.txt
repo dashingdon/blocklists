@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1643955286691,
+  "when": 1644130906281,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -52,6 +52,7 @@
     "* * image allow",
     "* 1st-party * allow",
     "* 1st-party frame allow",
+    "192.168.1.1 192.168.1.1 cookie allow",
     "192.168.1.1 events.mapbox.com * inherit",
     "192.168.1.1 mapbox.com * allow",
     "192.168.1.1 ubnt.com * allow",
@@ -156,6 +157,7 @@
     "autonomous.ai www.affirm.com xhr allow",
     "azfamily.com field59.com * allow",
     "azfamily.com townnews.com * allow",
+    "barnesandnoble.com barnesandnoble.com cookie allow",
     "bbc.co.uk 1st-party cookie block",
     "bbc.co.uk emp.bbci.co.uk script allow",
     "bbc.co.uk feeds.bbci.co.uk script allow",
