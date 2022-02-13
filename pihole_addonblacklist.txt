@@ -10,6 +10,30 @@ prclive4.listenon.in
 www.energybillcruncher.com
 
 # blocked through cloudflare team gateway
+jointmarketing-analytics.pubtech-marketing.com
+pubtech-marketing.com
+verify.uxcam.com
+analytics.chegg.com
+tracker.nbcuas.com
+px.ads.linkedin.com
+data.flurry.com
+voodoo-ads.io
+splash-screen.voodoo-ads.io
+d.applvn.com
+d.applovin.com
+rt.applvn.com
+ads.api.vungle.com
+supersonicads.com
+pm-gateway.supersonicads.com
+init.supersonicads.com
+logs.ironsrc.mobi
+init.supersonicads.com
+www.lendingtree.com
+www.lendgo.com
+analytics.makestories.io
+magazin.pluska.sk
+www.mythumbnails.com
+api.forbesviz.com
 fobproductions.com
 teamskeetfans.com
 www.casetify.com
@@ -17,6 +41,7 @@ dam.nmhmedia.sk
 securemetrics.apple.com
 live-video.net
 redbubble.net
+ih1.redbubble.net
 casetify.com
 sexhd.pics
 uradvd-tonya.com
