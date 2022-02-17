@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1644130906281,
+  "when": 1645071910164,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -1177,6 +1177,7 @@
     "rei.com www.youtube.com frame allow",
     "rei.com youtube.com * allow",
     "releax.in maxcdn.bootstrapcdn.com script allow",
+    "replit.com replit.com cookie allow",
     "reuters.com reutersmedia.net * allow",
     "reuters.com www.reuters.com cookie block",
     "ricksammon.com assets.squarespace.com script allow",
@@ -1394,6 +1395,7 @@
     "twitter.com twitter.com cookie allow",
     "uber.com d3i4yxtzktqr9n.cloudfront.net script allow",
     "uber.com www.cdn-net.com script allow",
+    "udemy.com udemy.com cookie allow",
     "udemy.com udemycdn.com * allow",
     "ui.com cdn.jsdelivr.net script allow",
     "ui.com cdn.shopify.com script allow",
@@ -1440,6 +1442,7 @@
     "vivaldi.com youtube-nocookie.com * allow",
     "vivaldi.com youtube-nocookie.com cookie block",
     "vivaldi.com youtube-nocookie.com frame allow",
+    "vivaldi.net vivaldi.net cookie allow",
     "volvmedia.com * * allow",
     "volvmedia.com * frame inherit",
     "walmart.com wal.co * allow",
