@@ -740,3 +740,25 @@ menafn.com##.body-innerwrapper > div
 ||*/Modal*$important
 ||*?device=desktop$important
 
+! 2022-02-07 https://www.hindigeetmala.net
+www.hindigeetmala.net##.alcen.w100p.b1
+www.hindigeetmala.net##.alcen.w760.b1 > tbody > tr > .vatop
+
+! 2022-02-10 https://www.marketwatch.com
+www.marketwatch.com##.no-margin.partner-center.component--module.component
+
+! 2022-02-10 https://sfist.com
+sfist.com##[id^=bsa-zone]
+
+! 2022-02-11 https://www.wsj.com
+www.wsj.com##.login-section-container
+
+! 2022-02-11 https://www.cnn.com
+www.cnn.com##.pg-rail-tall__rail.pg-rail
+
+! 2022-02-12 https://www.reuters.com
+www.reuters.com##[class*=registration-prompt__container]
+
+! 2022-02-12 https://thecinemaholic.com
+thecinemaholic.com##[class*=code-block]
+
