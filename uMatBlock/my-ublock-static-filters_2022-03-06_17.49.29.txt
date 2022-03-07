@@ -841,3 +841,34 @@ twitter.com##[aria-label$="trending now" i]
 ! Sidebar - Who to follow/You might like
 twitter.com##[aria-label="who to follow" i]:upward(1)
 
+! 2022-02-28 https://time.com
+time.com##.lead-video.partial
+
+! 2022-02-28 https://www.politifact.com
+www.politifact.com##.is-active.o-disruptor
+
+! 2022-03-04 https://www.healthline.com
+||*/metrics$important
+||*/advertising.js$important
+||*$ping,important
+www.healthline.com##.css-11k39sg
+
+! 2022-03-04 https://www.yahoo.com
+www.yahoo.com##.H\(250px\).C\(\#6e7780\).Fz\(12px\).Bgc\(\#f5f8fa\).Jc\(c\).Ai\(c\).D\(f\).sdaLite_D\(n\)
+www.yahoo.com##.Mb\(20px\)
+
+! 2022-03-04 https://www.thedailybeast.com
+||*/advertising~*$important
+www.thedailybeast.com##.Mobiledoc > div
+
+! 2022-03-04 https://www.independent.co.uk
+www.independent.co.uk###stickyFooterRoot
+
+! 2022-03-05 https://www.technologyreview.com
+www.technologyreview.com##.feedItem__wrapper--3w0Fq
+
+! 2022-03-06 https://www.local10.com
+www.local10.com##.cvGIMv.dist__GridBase-sc-1fnzlkn-9.sc-bdVaJa
+
+linkedin.com##.feed-shared-update-v2__description-wrapper:has-text(xxxabc)
+

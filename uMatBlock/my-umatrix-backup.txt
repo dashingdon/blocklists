@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1645856644188,
+  "when": 1646617807964,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -446,6 +446,7 @@
     "getfedora.org builds.coreos.fedoraproject.org xhr allow",
     "getpocket.com sentry.io * allow",
     "getpocket.com typekit.net * allow",
+    "getweave.com getweave.com cookie allow",
     "github.com github.githubassets.com script allow",
     "gitlab.com assets.gitlab-static.net script allow",
     "gizmodo.com 1st-party cookie block",
@@ -1462,6 +1463,7 @@
     "weather.com polyfill.io * allow",
     "weather.com weather.com cookie block",
     "wellsfargo.com wellsfargo.com cookie allow",
+    "wexhealth.com wexhealth.com cookie allow",
     "whatsapp.com media-sjc3-1.cdn.whatsapp.net xhr allow",
     "whatsapp.com mmg-fna.whatsapp.net xhr allow",
     "whatsapp.com static.whatsapp.net xhr allow",
