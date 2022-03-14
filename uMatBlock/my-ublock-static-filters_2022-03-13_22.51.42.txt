@@ -872,3 +872,54 @@ www.local10.com##.cvGIMv.dist__GridBase-sc-1fnzlkn-9.sc-bdVaJa
 
 linkedin.com##.feed-shared-update-v2__description-wrapper:has-text(xxxabc)
 
+! 2022-03-08 https://www.indiatoday.in
+www.indiatoday.in##.lazyloaded.newsltter-iframe-new
+
+! 2022-03-08 https://www.aajtak.in
+www.aajtak.in##.stoybday-ad
+www.aajtak.in###tab-video-wrapper-plugin
+||*/amazon_products_prod.js*$important
+www.aajtak.in###trinity
+www.aajtak.in##.share-social-icons
+
+! 2022-03-08 https://www.businesstoday.in
+www.businesstoday.in###trinity
+www.businesstoday.in##.bottomSliderSwipe
+www.businesstoday.in##.blu_str-wrp
+
+! 2022-03-08 https://www.readersdigest.in
+www.readersdigest.in##div.topTopicsSec:nth-of-type(6)
+www.readersdigest.in##.animated.fadeInUp.wow.leftSuscriptionBanner
+
+! 2022-03-08 https://www.gnttv.com
+www.gnttv.com##.embedcode
+www.gnttv.com##.hidegap.mainBorromSliderSec
+
+! 2022-03-08 https://timesofindia.indiatimes.com
+||*/TimesClubWidget*$important
+timesofindia.indiatimes.com##._1bL3b
+
+! 2022-03-08 https://www.dnaindia.com
+||*/taboola/*$important
+
+! 2022-03-08 https://www.mid-day.com
+||*/lozad.js$important
+
+! http://dubznetwork.com/meet/soccer2/real-madrid-vs-psg-9march/
+||*ad-overlay-anything*$important
+||*/adblocker/*$important
+
+! 2022-03-10 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.modal-container
+
+! 2022-03-11 https://www.timesnownews.com
+www.timesnownews.com##.GdprCSS-container-1poBZ
+www.timesnownews.com##div[class^="adCaller"]
+www.timesnownews.com##div[class^="ad-600"]
+
+! 2022-03-11 https://www.timesofisrael.com
+www.timesofisrael.com##.join-community-banner.join-community
+
+! 2022-03-13 https://www.independent.co.uk
+www.independent.co.uk##.video-hero-wrapper-inner
+
