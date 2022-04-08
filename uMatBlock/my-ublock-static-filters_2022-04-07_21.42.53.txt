@@ -923,3 +923,56 @@ www.timesofisrael.com##.join-community-banner.join-community
 ! 2022-03-13 https://www.independent.co.uk
 www.independent.co.uk##.video-hero-wrapper-inner
 
+! 2022-03-17 https://outlook.live.com
+||inboxcommerce.azureedge.net*$important
+||*inboxcommerce*$important
+||*/inboxcommerce*$important
+
+
+! remove Shorts shelf on channel pages; example: https://imgur.com/a/CTIr512
+
+youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.*.itemSectionRenderer.contents.0.reelShelfRenderer)
+
+! remove Shorts button on the left sidebar
+
+youtube.com##+js(json-prune, items.0.guideSectionRenderer.items.2.guideEntryRenderer)
+
+! remove shorts from search results as well as videos with shorts in the title
+
+youtube.com##ytd-browse.ytd-grid-video-renderer:has(#video-title[title~="#shorts" i])
+
+youtube.com##ytd-browse.ytd-rich-item-renderer:has(#video-title-link[title~="#shorts" i])
+
+youtube.com##ytd-search.ytd-video-renderer:has(#video-title[title~="#shorts" i])
+
+youtube.com##ytd-watch-next-secondary-results-renderer.ytd-compact-video-renderer:has(#video-title[title~="#shorts" i])
+
+youtube.com##ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-scope:has-text(#shorts)
+
+! 2022-03-17 https://www.androidauthority.com
+www.androidauthority.com##.gb.Ia.fb
+
+! 2022-03-18 https://sfist.com
+sfist.com##.subscribe-form
+
+! 2022-03-19 https://outlook.live.com
+outlook.live.com##.cKMODBkAO0UwPfPXZ1pB.pBKjVBVDRKIDHWS0A95I
+outlook.live.com##.VPtFloqixpkkqJNcOv2T
+
+! 2022-03-20 https://www.indiatoday.in
+www.indiatoday.in##.mt-0.col-xs-12.col-sm-8.col-md-8
+
+! 2022-03-28 https://seekingalpha.com
+seekingalpha.com##.vjA
+seekingalpha.com##p:nth-of-type(6)
+seekingalpha.com##.uU.luB > div:nth-of-type(2)
+
+! 2022-04-01 https://www.reddit.com
+reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+!www.reddit.com###t3_ttb7ms > .YA9IzN0YR-G5_oD5EUydl
+!www.reddit.com###t3_tsvic5 > .YA9IzN0YR-G5_oD5EUydl
+!www.reddit.com###t3_tt3okd > .YA9IzN0YR-G5_oD5EUydl
+
+! 2022-04-02 https://www.esakal.com
+www.esakal.com##.iframe-container-saamtv
+
