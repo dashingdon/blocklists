@@ -902,9 +902,6 @@ timesofindia.indiatimes.com##._1bL3b
 ! 2022-03-08 https://www.dnaindia.com
 ||*/taboola/*$important
 
-! 2022-03-08 https://www.mid-day.com
-||*/lozad.js$important
-
 ! http://dubznetwork.com/meet/soccer2/real-madrid-vs-psg-9march/
 ||*ad-overlay-anything*$important
 ||*/adblocker/*$important
@@ -975,4 +972,68 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 
 ! 2022-04-02 https://www.esakal.com
 www.esakal.com##.iframe-container-saamtv
+
+! 2022-04-10 https://wpde.com
+||*/analytics/*$important
+wpde.com##.Spinner-module_wrapper__2VIo
+wpde.com##[id*="sponsored_logo"]
+
+! 2022-04-10 https://www.cbsnews.com
+||*/measurements/*$important
+||*cbsnewscore*$important
+
+! 2022-04-10 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##._3Ylbb
+
+! 2022-04-11 https://www.sfgate.com
+www.sfgate.com###zoneC > .hdnce-collection-108907-dynamic_thumbnail_list.hdnce-e.hide-rss-link
+
+! 2022-04-11 https://sfist.com
+sfist.com##.post-content > div
+
+! 2022-04-11 https://www.foxnews.com
+||*/readmo*$important
+
+! 2022-04-11 https://www.express.co.uk
+||*/analytics.config.json$important
+||*/consent?*$important
+
+! 2022-04-11 https://www.azcentral.com
+www.azcentral.com##.gnt_em_vp__tavp.gnt_em
+www.azcentral.com##.gnt_rr
+www.azcentral.com##gnt-upn
+www.azcentral.com##.gnt_m_evt
+
+! 2022-04-11 https://www.12news.com
+||*/live-video-banner_$script,important
+||*/ad_$important
+
+! 2022-04-11 https://www.sfchronicle.com
+www.sfchronicle.com##.bc_inline_sub
+||*/hnpprivacy-min.js$important
+www.sfchronicle.com##.bc_nl_article_bottom_signup_content
+www.sfchronicle.com##.show.fade.pageHeader--links
+
+! 2022-04-11 https://www.nbcbayarea.com
+www.nbcbayarea.com##.tpCards
+www.nbcbayarea.com##.tpVideo > video
+
+! 2022-04-11 https://pro.imdb.com
+pro.imdb.com###logged-out-modal-v2
+pro.imdb.com###logged_out_overlay
+
+! 2022-04-11 https://sanfrancisco.cbslocal.com
+sanfrancisco.cbslocal.com###featured-media
+
+! 2022-04-11 https://cointelegraph.com
+||*/pixel?$important
+
+! 2022-04-11 https://www.latimes.com
+www.latimes.com##div.enhancement:nth-of-type(22):has-text(subscribers)
+
+! 2022-04-11 https://scroll.in
+scroll.in##.floating-contribute-block.contribute-block
+scroll.in###supportStrap
+scroll.in##.upsell-panel
+scroll.in##.no-comment.below-article-share-block
 
