@@ -1037,3 +1037,38 @@ scroll.in###supportStrap
 scroll.in##.upsell-panel
 scroll.in##.no-comment.below-article-share-block
 
+! 2022-04-14 https://www.glassdoor.com
+www.glassdoor.com##.ec4dwm00.css-8ky8co.gd-ui-module.els8ktd0.pt
+
+! 2022-04-15 https://healthyceleb.com
+healthyceleb.com###tdi_45
+
+! 2022-04-22 https://www.cnn.com
+www.cnn.com##.flLMmo.videoWrapperstyles__MobilePinnedContainer-sc-1pio0j5-8
+
+! 2022-04-24 https://www.hobbr.com
+www.hobbr.com##[class*="-cb_banner_code"]
+
+! 2022-04-27 https://www.sfchronicle.com
+www.sfchronicle.com##div[class*=ad-module]
+
+! 2022-05-02 https://government.economictimes.indiatimes.com
+government.economictimes.indiatimes.com###model_1
+
+||music.youtube.com^$csp=worker-src 'none'
+
+||www.youtube.com^$csp=worker-src 'none'
+
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+
+youtube.com##+js(json-prune, playerResponse.playerAds)
+
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
+
+! 2022-05-13 https://www.barrons.com
+www.barrons.com##.imGiEi.sc-a978c41-0
+
