@@ -1072,3 +1072,65 @@ youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
 ! 2022-05-13 https://www.barrons.com
 www.barrons.com##.imGiEi.sc-a978c41-0
 
+! 2022-05-15 https://www.hilltimes.com
+www.hilltimes.com##.colm.colpad1.col-md-12
+www.hilltimes.com##.widget-container.nl-exclusive-container
+www.hilltimes.com##div[id*="wrappersocialmedia"]
+
+! 2022-05-17 https://www.cnn.com
+www.cnn.com##.zn--idx-7.zn-ondemand.zn-loaded.zn-has-one-container.t-light.zn--ordinary.zn-single-column.zn-tech-zone-8.zn
+
+! 2022-05-22 https://ktla.com
+ktla.com##.ns-block-embed-anvato
+
+! 2022-05-23 https://www.usatoday.com
+www.usatoday.com##.gnt_m_flm_a.gnt_x__nft
+www.usatoday.com##.gnt_em_hf.gnt_em
+
+! 2022-05-24 https://aeromods.app
+aeromods.app##font > center
+
+! 2022-05-25 https://www.foxnews.com
+www.foxnews.com##div.tablet-desktop.vendor-unit
+
+! 2022-05-25 https://investorplace.com
+||*/cropped-ip-*$image,1p,important
+||*/images/1x1.trans.gif$image
+
+! 2022-05-26 https://www.carousell.ph
+www.carousell.ph##.D_XH
+
+! 2022-05-28 https://www.latimes.com
+www.latimes.com##div.enhancement:nth-of-type(7)
+
+! 2022-05-29 https://finance.yahoo.com
+finance.yahoo.com##.H\(250px\).C\(\#6e7780\).Fz\(12px\).Bgc\(\#f5f8fa\).Jc\(c\).Ai\(c\).D\(f\).sdaLite_D\(n\)
+finance.yahoo.com###YDC-Overlay-Stack
+
+! 2022-05-29 https://www.elle.com
+www.elle.com##div[class*="internal-video"]
+
+! 2022-05-29 https://www.newyorker.com
+www.newyorker.com##div.ticker-view
+
+! 2022-05-30 https://www.wsj.com
+www.wsj.com##div.iooXwK.Box-sc-m4230u-0
+www.wsj.com##div.media-layout.kPRwJS.MediaLayout__Layout-sc-g2iiy0-0
+www.wsj.com##div[class*="SavingsUnitedListContainer"]
+
+! 2022-06-01 https://flightaware.com
+flightaware.com##.flightPagePremiumUpsell
+
+! 2022-06-01 https://www.outlookmoney.com
+www.outlookmoney.com##.ads
+
+! 2022-06-01 https://hollywoodlife.com
+hollywoodlife.com##.l-more-from
+
+! 2022-06-01 https://www.thequint.com
+www.thequint.com##.membership-widget-wrapper
+
+! 2022-06-01 https://www.mid-day.com
+www.mid-day.com###premiumgold
+www.mid-day.com##body > .text-center
+
