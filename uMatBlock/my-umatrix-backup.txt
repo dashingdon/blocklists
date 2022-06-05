@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1654062321985,
+  "when": 1654409599179,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -900,6 +900,7 @@
     "matrix-off: invideoapp.com true",
     "matrix-off: iptv-5f88c.web.app true",
     "matrix-off: irs.gov true",
+    "matrix-off: jumio.ai true",
     "matrix-off: kaiserpermanente.org true",
     "matrix-off: kidspython.com true",
     "matrix-off: kohls.com true",
@@ -978,6 +979,7 @@
     "matrix-off: ubisoftconnect.com true",
     "matrix-off: ucop.edu true",
     "matrix-off: ui.com true",
+    "matrix-off: united.com true",
     "matrix-off: unity.com true",
     "matrix-off: usgs.gov true",
     "matrix-off: usps.com true",
