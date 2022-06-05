@@ -1134,3 +1134,53 @@ www.thequint.com##.membership-widget-wrapper
 www.mid-day.com###premiumgold
 www.mid-day.com##body > .text-center
 
+! 2022-06-04 https://fortune.com
+fortune.com##[class*="featuredMedia__videoWrapper"]
+fortune.com##.plea-block
+fortune.com##[class*="sidebar__wrapper"]
+
+! 2022-06-04 https://www.harpersbazaar.com
+www.harpersbazaar.com##.lazyload.media-loader.show-on-consent.embed-youtube.embed-iframe.embed
+||*/affiliatedisclaimer*js$important
+||*/affiliate-*$important
+www.harpersbazaar.com##.watch-next-in-body.end-of-content-playlist
+www.harpersbazaar.com##div[class*="-lede-video"]
+
+! 2022-06-04 https://www.newyorker.com
+www.newyorker.com##.iframe-embed
+||*/beacon*$important
+||*/pixelpropagate.js*$important
+||journey.newyorker.com^$important
+
+! 2022-06-04 https://www.theverge.com
+www.theverge.com##.remixd-wrapper
+||cdn.concert.io^$important
+||concertads-*$other,important
+www.theverge.com##.c-footer
+
+! 2022-06-04 https://www.theguardian.com
+||*/graun.commercial~enhanced.js$important
+||*/graun.vendors~enhanced.js$important
+||*/CommercialMetrics*$important
+||*AdSlot*$important
+||*/ReaderRevenueLinks-*$important
+www.theguardian.com##.dcr-il3bi2
+||*commercial.js$important
+www.theguardian.com##.gs-container.js-footer__secondary.l-footer__secondary
+
+! 2022-06-04 https://www.nbclosangeles.com
+||*/flyoutNav*$important
+www.nbclosangeles.com##.tpPlayer
+www.nbclosangeles.com##div[class*="-ad"]
+||*/videos?*$important
+www.nbclosangeles.com##.video-flyout
+www.nbclosangeles.com##.site-footer
+www.nbclosangeles.com##div[class*="wp-block-embed"]
+
+! 2022-06-04 https://www.salon.com
+||www.salon.com/ajax/salon_is_ad_free_check.php$important
+www.salon.com##.container
+
+! 2022-06-04 https://www.nytimes.com
+||*emailsignup*$important
+
