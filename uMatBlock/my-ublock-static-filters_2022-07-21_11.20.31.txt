@@ -1184,3 +1184,9 @@ www.salon.com##.container
 ! 2022-06-04 https://www.nytimes.com
 ||*emailsignup*$important
 
+! 2022-06-05 https://www.mumbailive.com
+||*socialReactions*$important
+
+! 2022-07-20 https://outlook.live.com
+outlook.live.com##.bSrhA.pX_v1
+
