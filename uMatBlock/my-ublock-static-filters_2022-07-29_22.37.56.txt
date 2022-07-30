@@ -1190,3 +1190,51 @@ www.salon.com##.container
 ! 2022-07-20 https://outlook.live.com
 outlook.live.com##.bSrhA.pX_v1
 
+! 2022-07-23 https://www.vice.com
+||*-ad-lib.js$important
+||*/ad-library/*$important
+||*ad-lib*$important
+
+! 2022-07-24 https://outlook.live.com
+||*adnxs.com*$important
+
+! 2022-07-24 https://www.vox.com
+www.vox.com##.c-article-footer
+
+! 2022-07-26 https://www.livemint.com
+||*displayAds*$important
+||*lozad.js$important
+||*advertisement.svg$important
+
+! 2022-07-26 https://www.cnn.com
+www.cnn.com##div[class*=ad-slot-rail]
+www.cnn.com##div[class*=ad-slot-header]
+
+! 2022-07-26 https://www.bloomberg.com
+||securepubads.g.doubleclick.net*$important
+
+! 2022-07-26 https://www.fool.com
+www.fool.com###top-sidebar-module-wrapper
+www.fool.com###returns-sidebar-wrapper > .portable-module
+www.fool.com##.sm\:mb-36px.mb-36px.border-gold-600.bg-gold-200.md\:mt-28px.mt-0px.shadow-md.border.py-20.px-24
+
+! 2022-07-26 https://www.barrons.com
+||*utag.js*$important
+||*cxense-candy.js*$important
+www.barrons.com##.article__inset--wrap.article__inset--type-InsetNewsletterSignup.article__inset.wrap.type-InsetNewsletterSignup.media-object
+
+! 2022-07-30 https://www.marketbeat.com
+www.marketbeat.com##.fake-sticky.txt-center
+www.marketbeat.com##div[class*="hello-bar"]
+www.marketbeat.com##div[class*="text-link-ad"]
+www.marketbeat.com###pnlAllAccessTrial
+
+! 2022-07-30 https://money.usnews.com
+##div[class*="SlideAd"]
+
+! 2022-07-30 https://health.usnews.com
+health.usnews.com##[id*="sailthru-recommendations-widget"]
+
+! 2022-07-30 https://www.marketbeat.com
+www.marketbeat.com##tr.bottom-sort > .p-3.c-white.gradient-green
+
