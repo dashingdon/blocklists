@@ -25,6 +25,7 @@
 ||*/pageview_candidate.cms$important
 ! 2021-12-14 https://www.cnn.com
 ||graphql.verticals.api.cnn.io^$xhr,important
+@@||seekingalpha.com/api/v3/metrics$xhr,1p
 ||*/metrics.js*$script
 ||*/VisitorAPI.js$script,important
 ||*/lytics.js$script,important
@@ -848,7 +849,7 @@ time.com##.lead-video.partial
 www.politifact.com##.is-active.o-disruptor
 
 ! 2022-03-04 https://www.healthline.com
-||*/metrics$important
+!||*/metrics$important
 ||*/advertising.js$important
 ||*$ping,important
 www.healthline.com##.css-11k39sg
@@ -1237,4 +1238,47 @@ health.usnews.com##[id*="sailthru-recommendations-widget"]
 
 ! 2022-07-30 https://www.marketbeat.com
 www.marketbeat.com##tr.bottom-sort > .p-3.c-white.gradient-green
+
+! 2022-08-04 https://cocktails.lovetoknow.com
+cocktails.lovetoknow.com##.videoAdConnatixOuter.ltk-connatix-container-outer
+cocktails.lovetoknow.com##div[class*="shiftingAd"]
+
+! 2022-08-05 https://www.cyberciti.biz
+www.cyberciti.biz##.post_content > div:nth-of-type(2)
+
+! 2022-08-10 https://www.dnaindia.com
+||ads.pubmatic.com^$important
+
+! 2022-08-10 https://www.foxnews.com
+www.foxnews.com##.speechkit-wrapper
+
+! 2022-08-10 https://teens.lovetoknow.com
+##div[class*="videoAd"]
+##div[class*="shiftingAd"]
+##div[class*="adFor"]
+
+! 2022-08-10 https://www.lovetoknow.com
+##.biggerPadding.ad
+
+! 2022-08-10 https://family.lovetoknow.com
+family.lovetoknow.com##div[class*="AdPresent"].ad
+
+! 2022-08-12 https://www.washingtonpost.com
+www.washingtonpost.com##div.hide-for-print:nth-of-type(47)
+
+! 2022-08-14 https://www.wordhippo.com
+www.wordhippo.com###sgwDesktopBottomDiv
+www.wordhippo.com###ad2nvu
+
+! 2022-08-18 https://seekingalpha.com
+seekingalpha.com##.inline-banner-placeholder
+seekingalpha.com##.ftA.grQ.bhGD.grC.bhCG.grA.bhN.grJ.grB.bhEZ.bhDU.geA.bgR.bgK.bgA.qgA
+seekingalpha.com##.jsB.jsA
+seekingalpha.com##div.oqDL.oqBW:nth-of-type(18)
+seekingalpha.com##.bbiA
+seekingalpha.com##.paywall-full-content.ftA.bgK.bgA.bgyA
+
+! 2022-08-18 https://www.kiplinger.com
+www.kiplinger.com###teads-mobile
+www.kiplinger.com##.-inline-news-subs
 
