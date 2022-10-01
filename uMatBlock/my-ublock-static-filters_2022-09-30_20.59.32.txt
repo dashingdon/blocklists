@@ -1282,3 +1282,25 @@ seekingalpha.com##.paywall-full-content.ftA.bgK.bgA.bgyA
 www.kiplinger.com###teads-mobile
 www.kiplinger.com##.-inline-news-subs
 
+! 2022-08-21 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##div[id*="_AD_Desktop"]
+
+! 2022-08-29 https://www.reddit.com
+www.reddit.com##._1dBtowHdRHcGyLbVEaOL8t._2I12Htze2UzJmmfnrgYJOn._2zZ-KGHbWWqrwGlHWXR90y
+
+! 2022-09-02 https://m.timesofindia.com
+m.timesofindia.com##._1vtlV
+
+! 2022-09-03 https://www.reddit.com
+www.reddit.com##._1YOB9GyYMcCe82cZEVbnF-._21z552gDZGIvH3ewNzPXWw
+
+! 2022-09-08 https://healthfully.com
+healthfully.com##.video-player-container-wrapper
+
+! 2022-09-12 https://www.wsj.com
+www.wsj.com###cx-what-to-read-next
+www.wsj.com##.ek23gj80.css-eolujz-Layout.media-layout
+
+! 2022-09-19 https://www.mybloggerlab.com
+www.mybloggerlab.com##.adbmbl
+
