@@ -1304,3 +1304,95 @@ www.wsj.com##.ek23gj80.css-eolujz-Layout.media-layout
 ! 2022-09-19 https://www.mybloggerlab.com
 www.mybloggerlab.com##.adbmbl
 
+! 2022-10-02 https://www.bloomberg.com
+www.bloomberg.com##.ad_canopy__Vxylx.ad_wrapper__dAi7G
+
+! 2022-10-03 https://new.btarena.com
+new.btarena.com##.w-100.text-center
+
+! 2022-10-07 https://www.bgr.in
+||*desktopad/*$important
+
+! 2022-10-07 https://www.news18.com
+||*adplex/*$important
+||accounts.google.com/gsi/status?client_id*$domain=www.news18.com,important
+
+! 2022-10-18 https://www.business-standard.com
+www.business-standard.com##.mb-5.subscription
+www.business-standard.com##.d-lg-block.row-inner
+
+! 2022-10-18 https://www.boomlive.in
+www.boomlive.in###allytech_ad_blocker_element_detection_div
+
+! 2022-10-19 https://www.boomlive.in
+www.boomlive.in##.modal-open.boom-pop-cover.soft-hide.exit-window-modal
+www.boomlive.in###list_level_3_ad
+www.boomlive.in##div[id*="_ad"]
+www.boomlive.in##div.col-md-3:nth-of-type(4)
+www.boomlive.in##div.spacer
+www.boomlive.in###money_level_new_1
+www.boomlive.in###money_level_1
+www.boomlive.in##div[id*="money_level_"]
+
+! 2022-10-19 https://www.foxbusiness.com
+www.foxbusiness.com##.mounted.partners
+
+! 2022-10-22 https://www.dnaindia.com
+www.dnaindia.com##div.twitter-tweet-rendered.twitter-tweet
+
+! 2022-10-22 https://9to5google.com
+9to5google.com##.wp-block-embed__wrapper
+
+! 2022-10-26 https://www.freepressjournal.in
+www.freepressjournal.in##.listingTopAdContainer.fpj_wrapper
+
+! 2022-10-29 https://www.kbb.com
+||*pixallId*$important
+
+! 2022-10-30 https://www.heraldweekly.com
+www.heraldweekly.com##.widget-area.sidebar-primary.sidebar
+www.heraldweekly.com##div[id*="vidazoo-parent-container"]
+www.heraldweekly.com##div[class*="wp_ad"]
+##[id*="sticky_"]
+||*/tracked_*$important
+
+! 2022-10-30 https://www.theguardian.com
+||*metrics/*$important
+||*StickyBottomBanner*$important
+||*AlreadyVisited*$important
+||*ReaderRevenueDev*$important
+
+! 2022-10-31 https://scroll.in
+||*is-domestic$important
+
+! 2022-10-31 https://time.com
+time.com##.video-jw.component
+time.com##.video-container.homepage-section-v2
+time.com##[class*="mag-subs"]
+time.com##[class*="charter-newsletter"]
+
+! 2022-10-31 https://www.npr.org
+www.npr.org##[class*="flex-location"]
+
+! 2022-10-31 https://sourceforge.net
+sourceforge.net##li.trunc-eligible.standard.nel
+
+! 2022-11-10 https://www.scmp.com
+www.scmp.com##div[class*="-landing-popup"]
+
+! 2022-11-10 https://www.ibtimes.com
+www.ibtimes.com##[class*="newsletter-in-article"]
+www.ibtimes.com##[id*="ibt-video"]
+www.ibtimes.com##div[id*="ibtimes-tv-blocks-"]
+www.ibtimes.com##[class*="videoc"]
+
+! 2022-11-16 https://www.tripadvisor.ca
+www.tripadvisor.ca##.hNpWR.SwZTJ.wSSLS.G-._F.BMQDV
+
+! 2022-11-17 https://www.nytimes.com
+www.nytimes.com##div[class*="MAG_web_anon_usgm_"]
+
+! 2022-11-17 https://outlook.live.com
+outlook.live.com##.fGEFC
+outlook.live.com##.jYY8g.CCkr1
+
