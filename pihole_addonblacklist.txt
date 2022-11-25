@@ -223,6 +223,11 @@ adobe.tt.omtrdc.net
 adobeid-na1.services.adobe.com
 geo.adobe.com
 sstats.adobe.com
+# 11/24/2022
+uds.licenses.adobe.com
+acroipm2.adobe.com
+armmf.adobe.com
+ardownload3.adobe.com
 
 # 10/10/2021
 analytics.plex.tv
