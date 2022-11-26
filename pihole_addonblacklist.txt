@@ -388,6 +388,7 @@ cdn-ssl.vidible.tv
 # generic
 ns.exitgames.com
 ustats-app.schoology.com
+tags.tiqcdn.com
 
 # office
 debug.opendns.com
@@ -514,3 +515,4 @@ stats-api.skylum.com
 api.photolemur.com
 media.macphun.com
 luminaraiwin.skylum.com
+
