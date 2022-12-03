@@ -228,6 +228,8 @@ uds.licenses.adobe.com
 acroipm2.adobe.com
 armmf.adobe.com
 ardownload3.adobe.com
+swupmf.adobe.com
+00110.citi.com
 
 # 10/10/2021
 analytics.plex.tv
