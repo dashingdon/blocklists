@@ -54,6 +54,11 @@ wealth.emaplan.com#@#+js(no-floc)
 facebook.com##+js(set, navigator.cookieEnabled, false)
 ||washingtonpost.com/pwapiv2/$xhr,1p
 
+!!scrollbar not working
+youtube.com##body:style(overflow: auto !important;)
+youtube.com##html:style(overflow: auto !important;)
+youtube.com##html,body:style(overflow: auto !important;)
+
 ! 2021-12-09 https://www.mercurynews.com
 www.mercurynews.com###mobile-adhesion
 
@@ -1395,4 +1400,49 @@ www.nytimes.com##div[class*="MAG_web_anon_usgm_"]
 ! 2022-11-17 https://outlook.live.com
 outlook.live.com##.fGEFC
 outlook.live.com##.jYY8g.CCkr1
+
+! 2022-11-18 https://www.newsweek.com
+www.newsweek.com##.hidden-print.article-videoplayer
+www.newsweek.com##.trinityAudioPlaceholder
+www.newsweek.com##.fullCode
+
+! 2022-11-24 https://www.thehealthsite.com
+www.thehealthsite.com##[class*="ads-box-"]
+
+! 2022-11-24 https://www.timesnownews.com
+www.timesnownews.com##[class*="AdContainer"]
+
+! 2022-11-27 https://www.esakal.com
+www.esakal.com###interstitial
+
+! 2022-11-27 https://www.forbes.com
+www.forbes.com##[class*="video-block"]
+
+! 2022-11-28 https://androidtvnews.com
+androidtvnews.com##div.mv-trellis-feed-unit
+androidtvnews.com##.gb-container-97d0ad8c.gb-container
+
+! 2022-11-28 https://www.bestbuy.com
+www.bestbuy.com##.hidden-print.donation
+
+! 2022-11-28 https://www.rnz.co.nz
+||*/app-ad/*$important
+
+! 2022-11-28 https://www.washingtonpost.com
+www.washingtonpost.com##.hide-for-print.wpds-c-cbznGC
+
+! 2022-11-30 https://www.livelaw.in
+||*adsby*$important
+
+! 2022-11-30 https://slashdot.org
+||*adbanner.gif$important
+
+! 2022-11-30 https://www.marketbeat.com
+www.marketbeat.com###optinform-altbox
+
+! 2022-12-08 https://www.marketwatch.com
+www.marketwatch.com##.cxense-loading.cxense.component--module.component
+
+! 2022-12-16 https://www.youtube.com
+www.youtube.com###chat
 
