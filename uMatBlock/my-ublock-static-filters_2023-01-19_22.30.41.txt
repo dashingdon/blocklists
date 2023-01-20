@@ -1446,3 +1446,32 @@ www.marketwatch.com##.cxense-loading.cxense.component--module.component
 ! 2022-12-16 https://www.youtube.com
 www.youtube.com###chat
 
+! 2023-01-01 https://www.answers.com
+www.answers.com###widget_567
+
+! 2023-01-10 https://www.norfolklive.co.uk
+www.norfolklive.co.uk##.topbox-cls-placeholder
+
+! 2023-01-11 https://www.fool.com
+##div[class*="promobox"]
+##div[class*="premium-investing-services"]
+##div[class*="promo-banner"]
+www.fool.com##div.lg\:px-48px.sm\:px-32px.px-24px:nth-of-type(5)
+www.fool.com##div[class*="from-cyan-700"]
+www.fool.com##div.lg\:px-48px.sm\:px-32px.px-24px:nth-of-type(7)
+##.block-inline_ecap
+
+! 2023-01-12 https://www.picnob.com
+www.picnob.com##div[class*="ah-box"]
+
+! 2023-01-16 https://www.icicibank.com
+www.icicibank.com###popup-modal-content
+www.icicibank.com##.active.popup-modal-background
+
+! 2023-01-19 https://examgreen.com
+examgreen.com##.mbreader-popup
+examgreen.com##.reader101-pop
+
+! 2023-01-20 https://nypost.com
+nypost.com##div[class*="nyp-video-player"]
+
