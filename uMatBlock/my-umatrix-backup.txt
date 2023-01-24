@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1674196269957,
+  "when": 1674536932330,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -1249,6 +1249,7 @@
     "personalcapital.com youtube.com script allow",
     "personalcapital.com youtube.com xhr allow",
     "pge.com pge.com cookie allow",
+    "pge.com twitter.com cookie allow",
     "photobucket.com photobucket.com cookie allow",
     "photoprism.org api.github.com xhr allow",
     "photoprism.org photoprism.app * allow",
