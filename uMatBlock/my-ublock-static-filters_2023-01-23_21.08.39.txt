@@ -58,6 +58,9 @@ facebook.com##+js(set, navigator.cookieEnabled, false)
 youtube.com##body:style(overflow: auto !important;)
 youtube.com##html:style(overflow: auto !important;)
 youtube.com##html,body:style(overflow: auto !important;)
+yahoo.com##body:style(overflow: auto !important;)
+yahoo.com##html,body:style(overflow: auto !important;)
+
 
 ! 2021-12-09 https://www.mercurynews.com
 www.mercurynews.com###mobile-adhesion
@@ -917,8 +920,8 @@ www.geeksforgeeks.org##.modal-container
 
 ! 2022-03-11 https://www.timesnownews.com
 www.timesnownews.com##.GdprCSS-container-1poBZ
-www.timesnownews.com##div[class^="adCaller"]
-www.timesnownews.com##div[class^="ad-600"]
+##div[class^="adCaller"]
+##div[class^="ad-600"]
 
 ! 2022-03-11 https://www.timesofisrael.com
 www.timesofisrael.com##.join-community-banner.join-community
@@ -1056,7 +1059,7 @@ www.cnn.com##.flLMmo.videoWrapperstyles__MobilePinnedContainer-sc-1pio0j5-8
 www.hobbr.com##[class*="-cb_banner_code"]
 
 ! 2022-04-27 https://www.sfchronicle.com
-www.sfchronicle.com##div[class*=ad-module]
+##div[class*=ad-module]
 
 ! 2022-05-02 https://government.economictimes.indiatimes.com
 government.economictimes.indiatimes.com###model_1
@@ -1215,6 +1218,7 @@ www.vox.com##.c-article-footer
 ! 2022-07-26 https://www.cnn.com
 www.cnn.com##div[class*=ad-slot-rail]
 www.cnn.com##div[class*=ad-slot-header]
+##div[class*=ad-slot]
 
 ! 2022-07-26 https://www.bloomberg.com
 ||securepubads.g.doubleclick.net*$important
@@ -1357,7 +1361,7 @@ www.freepressjournal.in##.listingTopAdContainer.fpj_wrapper
 ! 2022-10-30 https://www.heraldweekly.com
 www.heraldweekly.com##.widget-area.sidebar-primary.sidebar
 www.heraldweekly.com##div[id*="vidazoo-parent-container"]
-www.heraldweekly.com##div[class*="wp_ad"]
+##div[class*="wp_ad"]
 ##[id*="sticky_"]
 ||*/tracked_*$important
 
@@ -1407,10 +1411,10 @@ www.newsweek.com##.trinityAudioPlaceholder
 www.newsweek.com##.fullCode
 
 ! 2022-11-24 https://www.thehealthsite.com
-www.thehealthsite.com##[class*="ads-box-"]
+##[class*="ads-box-"]
 
 ! 2022-11-24 https://www.timesnownews.com
-www.timesnownews.com##[class*="AdContainer"]
+##[class*="AdContainer"]
 
 ! 2022-11-27 https://www.esakal.com
 www.esakal.com###interstitial
@@ -1473,5 +1477,27 @@ examgreen.com##.mbreader-popup
 examgreen.com##.reader101-pop
 
 ! 2023-01-20 https://nypost.com
-nypost.com##div[class*="nyp-video-player"]
+##div[class*="nyp-video-player"]
+
+! 2023-01-20 https://pagesix.com
+pagesix.com###sidebar-primary > .open-web--single.module > .sticky.ad
+
+! 2023-01-22 https://www.costcontessa.com
+www.costcontessa.com##.code-block-8.code-block
+
+! 2023-01-22 https://www.sfgate.com
+##div[class*="adBanner"]
+www.sfgate.com##div[class*="hearst-commerce"]
+
+! 2023-01-23 https://www.marketwatch.com
+www.marketwatch.com##.element--textblock.element
+www.marketwatch.com##.sticky.region--aside.region
+##div[class*="NewsletterSign"]
+
+! 2023-01-23 https://www.bloomberg.com
+##[class*="ad_canopyContainer"]
+##div[class*="ad_wrapper"]
+
+! 2023-01-24 https://www.foxnews.com
+||*omtr_code.js$important
 
