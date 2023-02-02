@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1674536932330,
+  "when": 1675304103234,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -148,6 +148,7 @@
     "apple.com cdn-apple.com * allow",
     "appseed.us appseed-147a1.kxcdn.com script allow",
     "arcgis.com arcgisonline.com * allow",
+    "argbash.dev argbash.dev cookie allow",
     "arstechnica.com arstechnica.com cookie block",
     "asana.com api.greenhouse.io xhr allow",
     "asiamiles.com aml.sc.omtrdc.net script allow",
@@ -687,6 +688,7 @@
     "investing.com www.google.com frame allow",
     "investing.com www.google.com script allow",
     "investing.com www.gstatic.com script allow",
+    "investopedia.com investopedia.com cookie allow",
     "investors.com 1st-party cookie block",
     "investors.com assets.adobedtm.com script allow",
     "investors.com cdnjs.cloudflare.com script allow",

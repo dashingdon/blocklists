@@ -1501,3 +1501,26 @@ www.marketwatch.com##.sticky.region--aside.region
 ! 2023-01-24 https://www.foxnews.com
 ||*omtr_code.js$important
 
+! 2023-01-24 https://www.livemint.com
+www.livemint.com##.story4.rightBlock
+www.livemint.com##[id*="subscriptionNewBanner"]
+
+! 2023-01-29 https://www.digitaltrends.com
+www.digitaltrends.com##div[class*="-affiliate"]
+www.digitaltrends.com##[class*="m-shop"]
+www.digitaltrends.com##[href*="https://shop-links.co"]
+
+! 2023-01-30 https://www.mercurynews.com
+www.mercurynews.com##.article-footer
+www.mercurynews.com##[class*="dfm-trust"]
+www.mercurynews.com##[class*="work-advertiser"]
+
+! 2023-01-31 https://www.haribhoomi.com
+www.haribhoomi.com##div[class*="popup-"]
+
+! 2023-02-02 https://www.youtube.com
+www.youtube.com##[class*="ytd-reel-shelf"]
+www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Buy)
+www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Pay)
+www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Horror)
+
