@@ -246,6 +246,7 @@ manhuascan.com
 totopantura.net
 
 # 10/18/2021 Adobe
+dpm.demdex.net
 hbrt.adobe.com
 hbrcv.adobe.com
 crlog-crcn.adobe.com
