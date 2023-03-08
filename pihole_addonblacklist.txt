@@ -1,3 +1,9 @@
+#streaming blocks
+
+ark.tubi.video
+video.adsafeprotected.com
+pixel.production-public.tubi.io
+
 # manually reviewd
 
 ws.audioeye.com

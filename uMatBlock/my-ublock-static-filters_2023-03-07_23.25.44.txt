@@ -1520,7 +1520,41 @@ www.haribhoomi.com##div[class*="popup-"]
 
 ! 2023-02-02 https://www.youtube.com
 www.youtube.com##[class*="ytd-reel-shelf"]
-www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Buy)
-www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Pay)
-www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Horror)
+#www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Buy)
+#www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Pay)
+#www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Horror)
+#has(span:has-text(/Trending|Recommended channel/))
+www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has(span:has-text(/Buy|Pay|Horror/))
+www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has(span:has-text(/Buy|Pay|Horror/))
+www.youtube.com##ytd-rich-shelf-renderer.style-scope:has-text(shorts)
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-singleton-renderer.style-scope:has-text(Featured)
+#www.youtube.com###details:has-text(NFL):upward(1)
+www.youtube.com###details:has-text(/NFL|NBA|Dog|dog|DOG/):upward(1)
+
+! 2023-02-04 https://www.mid-day.com
+www.mid-day.com##.px-2.py-4.mt-2
+
+! 2023-02-05 https://maharashtratimes.com
+maharashtratimes.com##div[class*="-advertorial"]
+
+! 2023-02-05 https://www.outlookindia.com
+www.outlookindia.com##[class*="sponosred-links"]
+
+! 2023-02-14 https://www.forbes.com
+www.forbes.com##.top-ed-placeholder
+
+! 2023-02-24 https://tiermaker.com
+tiermaker.com##[id*="video-container"]
+
+! 2023-02-24 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.mPws3
+
+! 2023-02-27 https://therealdeal.com
+therealdeal.com##.RightRail_right__1k4e4
+therealdeal.com##[class*="AdUnit"]
+therealdeal.com##[class*="Newsletter"]
+therealdeal.com##div[class*="Ad_root"]
+
+! 2023-02-28 https://www.collegeconfidential.com
+www.collegeconfidential.com##.skin-handler.unified-college-header.header-college > .skin-handler
 
