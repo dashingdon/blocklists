@@ -667,6 +667,7 @@ tags.tiqcdn.com
 debug.opendns.com
 
 # General
+dit.whatsapp.net
 insights-collector.newrelic.com
 min-api.cryptocompare.com
 fq2h9152m63.statuspage.io
