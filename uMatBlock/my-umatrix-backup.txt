@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1682892925243,
+  "when": 1683441388156,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -702,7 +702,7 @@
     "invideoapp.com youtube.com * allow",
     "invidio.us googlevideo.com * allow",
     "itsfoss.com ajax.cloudflare.com script allow",
-    "ixl.com ixl.com cookie block",
+    "ixl.com ixl.com cookie allow",
     "jalopnik.com * cookie block",
     "jalopnik.com 1st-party cookie block",
     "jalopnik.com kinja-img.com * allow",
