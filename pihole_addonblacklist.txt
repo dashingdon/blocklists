@@ -6,6 +6,7 @@ pixel.production-public.tubi.io
 
 # manually reviewd
 
+chromereporting-pa.googleapis.com
 ws.audioeye.com
 events.launchdarkly.com
 a.pub.network
@@ -667,6 +668,7 @@ tags.tiqcdn.com
 debug.opendns.com
 
 # General
+graph-fallback.instagram.com
 dit.whatsapp.net
 insights-collector.newrelic.com
 min-api.cryptocompare.com
