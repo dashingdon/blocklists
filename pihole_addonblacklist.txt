@@ -669,6 +669,31 @@ debug.opendns.com
 
 # General
 graph-fallback.instagram.com
+geller-pa.googleapis.com
+federatedml-pa.googleapis.com
+debug.opendns.com
+tags.hollisterco.com
+semanticlocation-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+connect.facebook.net
+caching.graphql.imdb.com
+mqtt-mini.facebook.com
+gql-realtime.reddit.com
+articles.smartasset.com
+cdn.cookielaw.org
+smetrics.costco.com
+adbutler.costco.com
+collector.pabs.comcast.com
+cos-rd.com
+dpm.demdex.net
+graph.instagram.com
+lna.tubi.video
+in.appcenter.ms
+w3-reporting.reddit.com
+a.a47b.com
+redirector.gvt1.com
+video-assets.brandcdn.com
+api-js.datadome.co
 dit.whatsapp.net
 insights-collector.newrelic.com
 min-api.cryptocompare.com
