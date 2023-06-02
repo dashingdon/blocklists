@@ -20,7 +20,7 @@
 ||_analytics
 !!!!
 ||*video.mp4*$important
-||*/video/*$important
+!!||*/video/*$important
 ||*consent-banner$important
 ||*/pageview_candidate.cms$important
 ! 2021-12-14 https://www.cnn.com
@@ -285,7 +285,7 @@ www.cnn.com##.Zone__isBleed.Zone__component
 ! 2021-12-26 https://www.amazon.com
 ||*/usage*$xhr,important
 ||api.us-east-1.aiv-delivery.net/Events/*$xhr,important
-||*dash.row.aiv-cdn.net/*$xhr,important
+!||*dash.row.aiv-cdn.net/*$xhr,important
 
 ! 2021-12-26 https://www.tahoedailytribune.com
 www.tahoedailytribune.com##.pl-4.pr-4.pb-4.pt-3.col-xl-7
@@ -1621,4 +1621,30 @@ www.airbnb.com##.dir-ltr.dir.o19htd17.o30qrr6
 ! 2023-05-06 https://www.nbcwashington.com
 www.nbcwashington.com##.tpPlayer
 www.nbcwashington.com##.video-lead.article-featured-media
+
+! 2023-05-07 https://www.insider.com
+www.insider.com##.insider-raw-embed
+www.insider.com##[class*="has-video-ad"]
+
+! 2023-05-10 https://www.marketwatch.com
+www.marketwatch.com##.paywall__section-container
+
+! 2023-05-15 https://fortune.com
+fortune.com##.related-video-container
+fortune.com##div.gKJyhH.sc-eGJbfJ
+
+! 2023-05-16 https://www.amazon.com
+||*/iad_2/*$important
+!||*/video_init.mp4$domain=www.amazon.com,important
+
+! 2023-05-17 https://audiotools.in
+audiotools.in##.TkFWekhUMkgrTmRBSHdCSyUQXcZzFFaTRwVMxWmoQWGSmpYTFFQTjhxut.ckxIYJaekhMGFsdwaZuUUhkbmcrSXpsTkgKRYhUcmcrMVMrNXFtYTFSRTlWREwdlvYZdXpVUQjhxutjhxut.SkrMZENHVXeXZTlRIUVBbdnaDNaZGZUIaHFVakpDUVAySjdOVTjhxut
+audiotools.in###NVVuYTJhWjRlODJSWQVHVVZFdTaiMbWtycpBSmFmWnZkdEZTMmZjTTfgybq
+
+! 2023-05-25 https://www.dailymail.co.uk
+www.dailymail.co.uk##div[class*="Newsletter"]
+
+! 2023-06-02 https://pluto.tv
+||service-ad-impression-proxy.clusters.pluto.tv^$xhr,important
+||*_ad/creative/*$xhr,important
 
