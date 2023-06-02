@@ -1,3 +1,7 @@
+#regex
+(\.|^)litix\.io$
+(\.|^)trustarc\.com$
+
 #streaming blocks
 
 ark.tubi.video
@@ -668,9 +672,12 @@ tags.tiqcdn.com
 debug.opendns.com
 
 # General
+tags.tiqcdn.com
+imasdk.googleapis.com
 graph-fallback.instagram.com
 geller-pa.googleapis.com
 federatedml-pa.googleapis.com
+app.adjust.com
 debug.opendns.com
 tags.hollisterco.com
 semanticlocation-pa.googleapis.com
