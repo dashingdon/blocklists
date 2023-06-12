@@ -672,6 +672,12 @@ tags.tiqcdn.com
 debug.opendns.com
 
 # General
+hsvideo.herokuapp.com
+app-measurement.com
+videoads.newsy.com
+graph.instagram.com
+mqtt-mini.facebook.com
+g.whatsapp.net
 tags.tiqcdn.com
 imasdk.googleapis.com
 graph-fallback.instagram.com
