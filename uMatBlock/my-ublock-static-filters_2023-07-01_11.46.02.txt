@@ -1648,3 +1648,16 @@ www.dailymail.co.uk##div[class*="Newsletter"]
 ||service-ad-impression-proxy.clusters.pluto.tv^$xhr,important
 ||*_ad/creative/*$xhr,important
 
+www.reddit.com##.Comment:style(--newCommunityTheme-activeAlpha10: none;)
+
+! 2023-06-19 https://www.maggi.in
+www.maggi.in##.mg-overlay.reveal-overlay
+
+! 2023-06-20 https://www.ratemyprofessors.com
+www.ratemyprofessors.com##[id*="browsi-search-results"]
+www.ratemyprofessors.com##div[class*="AdWrapper"]
+
+! 2023-06-29 https://www.investorsobserver.com
+www.investorsobserver.com##div[class*="score-container"]
+www.investorsobserver.com##div[class*="newsletter-signup"]
+
