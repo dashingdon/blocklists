@@ -1661,3 +1661,43 @@ www.ratemyprofessors.com##div[class*="AdWrapper"]
 www.investorsobserver.com##div[class*="score-container"]
 www.investorsobserver.com##div[class*="newsletter-signup"]
 
+! 2023-07-03 https://imgur.com
+imgur.com##.Gallery-Sidebar-Wrapper
+
+! 2023-07-03 https://www.loksatta.com
+www.loksatta.com##div[class*="content-register"]
+
+! 2023-07-05 https://www.labpulse.com
+www.labpulse.com##div[class*="ad-container"]
+www.labpulse.com##div[class*="site-newsletter"]
+
+! 2023-07-09 https://watch.sling.com
+@@||*cws.conviva.com^$domain=watch.sling.com
+||*slinganalytics.movetv.com^$domain=watch.sling.com,important
+
+facebook.com##[aria-posinset] [href^="/stories/"][href*="source=from_feed"]:upward([aria-posinset])
+
+! 2023-07-25 https://www.reddit.com
+www.reddit.com##._1TyJ_1df7bClk_bUEcPUXC._1ey38vaKoqbYZS5Eio9yaa
+
+! 2023-07-27 https://www.fox10phoenix.com
+www.fox10phoenix.com##div[class*="slide-in"]
+
+! 2023-07-27 https://www.lokmat.com
+www.lokmat.com###headbanner
+
+! 2023-08-15 https://sevenjournals.com
+sevenjournals.com##.code-block-8.code-block
+
+! 2023-08-23 https://www.ibtimes.co.in
+www.ibtimes.co.in##.featured_video.fullVideo
+
+! 2023-08-23 https://www.wsj.com
+www.wsj.com##div.evq75q11.css-xgokil-Box
+www.wsj.com##.e1vnmyci0.css-1skj0ht-Box
+
+! 2023-08-29 https://www.howtogeek.com
+||*strpixel.png$important
+||*-ad-320*.gif$important
+||*-amp-*.png$important
+
