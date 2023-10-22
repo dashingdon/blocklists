@@ -54,6 +54,10 @@ wealth.emaplan.com#@#+js(no-floc)
 facebook.com##+js(set, navigator.cookieEnabled, false)
 ||washingtonpost.com/pwapiv2/$xhr,1p
 
+!https://www.reddit.com/r/uBlockOrigin/comments/17do2p4/how_to_block_reddit_posts_that_contains_word/
+www.reddit.com##.Post:has([data-adclicklocation="title"] [data-click-id="body"]:is([href*="capitalism"],[href*="trump"],[href*="musk"]))
+sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="capitalism"],[permalink*="trump"],[permalink*="musk"])
+
 !!scrollbar not working
 youtube.com##body:style(overflow: auto !important;)
 youtube.com##html:style(overflow: auto !important;)
@@ -70,10 +74,10 @@ timesofindia.indiatimes.com##._3kDGy._1CyyJ
 timesofindia.indiatimes.com##[class^="div-gpt-ad-"]
 
 ! 2021-12-09 https://www.loksatta.com
-#www.loksatta.com##.adcode728x90.alignnone.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
-#www.loksatta.com##div.adcode300x250.alignnone.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
-#www.loksatta.com##.desk-ad-bg-container
-#www.loksatta.com##div[wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit]
+!www.loksatta.com##.adcode728x90.alignnone.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
+!www.loksatta.com##div.adcode300x250.alignnone.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
+!www.loksatta.com##.desk-ad-bg-container
+!www.loksatta.com##div[wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit]
 www.loksatta.com##[class^="wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit"]
 ! 2021-12-25 https://www.loksatta.com
 www.loksatta.com##.desk-ad-bg-container
@@ -84,7 +88,7 @@ www.esakal.com##.show.gm-observing-cb.gm-observing
 www.esakal.com##.fc-paywall-container
 
 ! 2021-12-09 https://www.policygenius.com
-#www.policygenius.com##div.fHcAex.Newsletter__Container-sc-1x1k1pi-0
+!www.policygenius.com##div.fHcAex.Newsletter__Container-sc-1x1k1pi-0
 www.policygenius.com##[class^="Newsletter__Container-sc-"]
 www.reddit.com##DIV[class="_1EG7_Cm18ANvUvJ4rJdRgQ FeLWdhOO-cVXowAo3Rndk _2mQGWgGIa1tOb-9mH8lvcG scrollerItem"]
 
@@ -1520,15 +1524,15 @@ www.haribhoomi.com##div[class*="popup-"]
 
 ! 2023-02-02 https://www.youtube.com
 www.youtube.com##[class*="ytd-reel-shelf"]
-#www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Buy)
-#www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Pay)
-#www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Horror)
+!www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Buy)
+!www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Pay)
+!www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has-text(Horror)
 #has(span:has-text(/Trending|Recommended channel/))
 www.youtube.com##ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer.style-scope:has(span:has-text(/Buy|Pay|Horror/))
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:has(span:has-text(/Buy|Pay|Horror/))
 www.youtube.com##ytd-rich-shelf-renderer.style-scope:has-text(shorts)
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-brand-video-singleton-renderer.style-scope:has-text(Featured)
-#www.youtube.com###details:has-text(NFL):upward(1)
+!www.youtube.com###details:has-text(NFL):upward(1)
 www.youtube.com###details:has-text(/NFL|NBA|Dog|dog|DOG/):upward(1)
 
 ! 2023-03-12 https://www.youtube.com
@@ -1700,4 +1704,16 @@ www.wsj.com##.e1vnmyci0.css-1skj0ht-Box
 ||*strpixel.png$important
 ||*-ad-320*.gif$important
 ||*-amp-*.png$important
+
+! 2023-09-18 https://www.vudu.com
+||*/AppMeasurement*$script,domain=www.vudu.com,important
+||*/ADVERT_CONTENT*$document,domain=www.vudu.com,important
+
+fox.com##+js(json-prune, ads)
+fox.com##+js(m3u-prune, /is_ad|ohash=\w{300}/, m3u8)
+foxsports.com##+js(json-prune, ads)
+foxsports.com##+js(m3u-prune, /is_ad|ohash=\w{300}/, m3u8)
+
+! 2023-10-02 https://food.ndtv.com
+food.ndtv.com##.add_Hig-aut.add_top-placeholder
 
