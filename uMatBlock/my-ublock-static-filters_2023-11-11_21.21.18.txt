@@ -1717,3 +1717,38 @@ foxsports.com##+js(m3u-prune, /is_ad|ohash=\w{300}/, m3u8)
 ! 2023-10-02 https://food.ndtv.com
 food.ndtv.com##.add_Hig-aut.add_top-placeholder
 
+! 2023-11-01 https://www.boomlive.in
+www.boomlive.in###bottom_snackbar
+www.boomlive.in##div[class*="loaded-ad"]
+
+! 2023-11-07 https://abc7chicago.com
+abc7chicago.com##div[class*="VideoWrapper"]
+
+! 2023-11-07 https://www.wcia.com
+www.wcia.com##[id*="video-bin"]
+||*pixel.js*$script,important
+||*tag.js*$script,important
+||*hurrytimer*.js*$script,important
+||*ad-referral*$script,important
+||*video-playlist*$script,important
+||*widget.subscribe.js*$script,important
+||*error-logger*$script,important
+
+! 2023-11-07 https://www.sfgate.com
+www.sfgate.com##.ar16-9.mb32
+||*loadAds.js$script,important
+
+! 2023-11-07 https://www.sfchronicle.com
+www.sfchronicle.com##section.fullwidth.article--content-notembed
+||www.sfchronicle.com/projects/2023/bay-area-money-survey/embed/$subdocument
+
+! 2023-11-07 https://www.politico.com
+www.politico.com##.layout--fixed-fluid.container > div.container__column:nth-of-type(1)
+www.politico.com##aside.story-enhancement
+
+! 2023-11-07 https://www.foxnews.com
+www.foxnews.com##.sidebar-primary.sidebar
+
+! 2023-11-07 https://indianexpress.com
+indianexpress.com##.more-from
+
