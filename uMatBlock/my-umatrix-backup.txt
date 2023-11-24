@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1699766545931,
+  "when": 1700862052295,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -1743,6 +1743,7 @@
     "weather.com weather.com cookie block",
     "wellsfargo.com wellsfargo.com cookie allow",
     "wexhealth.com wexhealth.com cookie allow",
+    "wfqo.com wfqo.com cookie allow",
     "whatsapp.com media-sjc3-1.cdn.whatsapp.net xhr allow",
     "whatsapp.com mmg-fna.whatsapp.net xhr allow",
     "whatsapp.com static.whatsapp.net xhr allow",

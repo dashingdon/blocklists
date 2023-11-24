@@ -43,6 +43,7 @@ data-collection.min.js$script,important
 ||*/firebase-messaging.js$script,important
 ||*/facebook_pixel.js$xhr,important
 ||*/segment.js?cb=SXQncyBncmVhdCB0byBiZSBhbGl2ZS4$script,important
+##div[class*="loaded-ad"]
 ||c.amazon-adsystem.com^$script,important
 ||nexus.ensighten.com^$script,important
 ||www.youtube.com/api/stats/*$xhr,important
@@ -54,6 +55,8 @@ wealth.emaplan.com#@#+js(no-floc)
 facebook.com##+js(set, navigator.cookieEnabled, false)
 ||washingtonpost.com/pwapiv2/$xhr,1p
 
+linkedin.com##.relative:has-text(Suggested)
+
 !https://www.reddit.com/r/uBlockOrigin/comments/17do2p4/how_to_block_reddit_posts_that_contains_word/
 www.reddit.com##.Post:has([data-adclicklocation="title"] [data-click-id="body"]:is([href*="capitalism"],[href*="trump"],[href*="musk"]))
 sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="capitalism"],[permalink*="trump"],[permalink*="musk"])
@@ -64,7 +67,8 @@ youtube.com##html:style(overflow: auto !important;)
 youtube.com##html,body:style(overflow: auto !important;)
 yahoo.com##body:style(overflow: auto !important;)
 yahoo.com##html,body:style(overflow: auto !important;)
-
+wfqo.com##body:style(overflow: auto !important;)
+wfqo.com##html,body:style(overflow: auto !important;)
 
 ! 2021-12-09 https://www.mercurynews.com
 www.mercurynews.com###mobile-adhesion
@@ -1751,4 +1755,62 @@ www.foxnews.com##.sidebar-primary.sidebar
 
 ! 2023-11-07 https://indianexpress.com
 indianexpress.com##.more-from
+
+! 2023-11-14 https://fidelity.capitalise.ai
+fidelity.capitalise.ai##cookies-use
+fidelity.capitalise.ai##app-disclaimer-card
+
+! 2023-11-22 https://www.androidauthority.com
+www.androidauthority.com##.--___vb
+www.androidauthority.com##.--___4b
+www.androidauthority.com##.--___yc
+www.androidauthority.com##.--___Lf
+www.androidauthority.com##.--___7b
+www.androidauthority.com##.--___fh
+www.androidauthority.com##.--___dd
+||*algolia.net$important
+||*.algolianet.com^$important
+||*/affilimate-sm.js$important
+||*/gtm.js$important
+
+! 2023-11-24 https://www.androidauthority.com
+www.androidauthority.com##.--___Tl.--___Pl.--___Kf
+
+div[class*="gpt-ad"]
+
+! 2023-11-22 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.hxDI_
+||*TimesPoint*$domain=indiatimes.com,important
+timesofindia.indiatimes.com##[class*="personaliseWidgetLoader"]
+timesofindia.indiatimes.com##.mgid_second_mrec_parent
+||*AdBlockerDetector*$important
+||*/manageads/*$important
+||*rhs_video*$important
+||*/VideoActionControllerWeb*$important
+||*google_ads*$important
+||*TrendingVideo*$important
+
+! 2023-11-22 https://www.esakal.com
+www.esakal.com##div[class*="adAlign"]
+www.esakal.com##.left-container
+
+! 2023-11-22 https://www.outlookindia.com
+www.outlookindia.com##div[class*="bdrL"]
+
+! 2023-11-24 https://wfqo.com
+wfqo.com##[class*="popup-"]
+wfqo.com##.elementor-element-caca473.elementor-element.elementor-top-column.elementor-col-50.elementor-column
+
+! 2023-11-24 https://www.sfchronicle.com
+www.sfchronicle.com##[class*="gray300"]
+www.sfchronicle.com##.y100.package
+www.sfchronicle.com##div.mb32.fs18.lh18.fs-fontJ.fw-fontJ.ff-fontJ.d1uy5mhj.r1udwkp5:nth-of-type(11)
+||*/loadAds.js$important
+||*gdpr*$important
+
+! 2023-11-24 https://forecast.weather.gov
+||*browserSniffer.js$important
+
+! 2023-11-24 https://www.wsj.com
+www.wsj.com##.e1bulelc3.css-wgssxl-Figure
 

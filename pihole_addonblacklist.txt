@@ -10,6 +10,7 @@ pixel.production-public.tubi.io
 
 # manually reviewd
 
+app-measurement.com
 chromereporting-pa.googleapis.com
 ws.audioeye.com
 events.launchdarkly.com
