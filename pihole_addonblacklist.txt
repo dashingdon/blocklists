@@ -1,3 +1,4 @@
+
 #regex
 (\.|^)litix\.io$
 (\.|^)trustarc\.com$
@@ -9,6 +10,41 @@ video.adsafeprotected.com
 pixel.production-public.tubi.io
 
 # manually reviewd
+
+# apple
+insight.adsrvr.org
+tracker.samplicio.us
+bs.serving-sys.com
+ads-us.amillionads.com
+tr.iadsdk.apple.com
+app-analytics-v2.snapchat.com
+weather-analytics-events.apple.com
+securemetrics.apple.com
+appsflyersdk.com
+ads.servenobid.com
+ad-delivery.net
+bam.nr-data.net
+beacon.riskified.com
+cdn.ads-flipp.com
+ads-flipp.com
+cdn.heapanalytics.com
+cdn.quantummetric.com
+statcounter.com
+ib.adnxs.com
+mediation.adnxs.com
+logs.browser-intake-datadoghq.com
+adsrvr.org
+forum.xnxx.com
+ad.turn.com
+analytics.kongregate.io
+beacon-iad2.rubiconproject.com
+secure.adnxs.com
+www.adtilt.com
+app.deepnude.cc
+beacon-nf.rubiconproject.com
+tracker.samplicio.us
+ad.gt
+
 
 app-measurement.com
 chromereporting-pa.googleapis.com
