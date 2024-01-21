@@ -1966,3 +1966,25 @@ towardsdatascience.com##.vf.ve.vd.m
 ! 2024-01-04 https://www.foxnews.com
 www.foxnews.com##div[class*="featured-video"]
 
+##slick-heartbeat
+
+! 2024-01-08 https://www.wsj.com
+www.wsj.com##.css-xgokil-Box
+
+! 2024-01-14 https://outlook.live.com
+outlook.live.com##.syTot
+
+! 2024-01-15 https://bakersfieldnow.com
+bakersfieldnow.com##div[class*="adBefore"]
+bakersfieldnow.com##.index-module_rightrailTop__mag4.index-module_panel__PX5b
+bakersfieldnow.com##[class*="NewAd"]
+
+! 2024-01-21 https://sfstandard.com
+sfstandard.com##[id*="stay-on-top"]
+
+! 2024-01-21 https://www.foxweather.com
+www.foxweather.com##[class*="infogram-embed"]
+
+! 2024-01-21 https://www.foxbusiness.com
+www.foxbusiness.com##.sidebar-primary.sidebar
+
