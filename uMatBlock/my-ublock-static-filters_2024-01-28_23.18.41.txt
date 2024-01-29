@@ -1988,3 +1988,8 @@ www.foxweather.com##[class*="infogram-embed"]
 ! 2024-01-21 https://www.foxbusiness.com
 www.foxbusiness.com##.sidebar-primary.sidebar
 
+! 2024-01-27 https://www.ziprecruiter.com
+www.ziprecruiter.com##.apply_section.apply_section_zds_section
+www.ziprecruiter.com##.ReactModalPortal
+www.ziprecruiter.com##.all_banners_container
+

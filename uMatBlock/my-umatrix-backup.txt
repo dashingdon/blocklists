@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1705860713938,
+  "when": 1706512739551,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -118,6 +118,7 @@
     "amazon.com m.media-amazon.com script allow",
     "amazon.com m.media-amazon.com xhr allow",
     "amcsgroup.com amcsgroup.com cookie allow",
+    "americancampus.com americancampus.com cookie allow",
     "amplifi.com orderlogicapp.com * allow",
     "amplifi.com shappify.com * allow",
     "amplifi.com shopify.com * allow",
