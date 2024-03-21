@@ -48,3 +48,4 @@ youtube.com/api/stats
 ^promo(s|t(ed|ion))?[-_.]
 (^|\.)dlvr1\.net$
 (^|\.)mybox\.management$
+/(?:|^|\.|\/)tracking/g
