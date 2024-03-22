@@ -1,7 +1,5 @@
 
 #regex
-(\.|^)litix\.io$
-(\.|^)trustarc\.com$
 
 #streaming blocks
 
@@ -40,6 +38,8 @@ weather-analytics-events.apple.com
 securemetrics.apple.com
 appsflyersdk.com
 www.adsensecustomsearchads.com
+babesource.com
+media.babesource.com
 bidswitch.net
 pixel.tapad.com
 pixels.ad.gt
@@ -102,7 +102,7 @@ cdn-gl.imrworldwide.com
 connect.facebook.net
 s.skimresources.com
 static.chartbeat.com
-chartbeat.com/
+chartbeat.com
 pixiedust.buzzfeed.com
 tagger.opecloud.com
 

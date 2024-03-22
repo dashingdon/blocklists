@@ -1993,3 +1993,29 @@ www.ziprecruiter.com##.apply_section.apply_section_zds_section
 www.ziprecruiter.com##.ReactModalPortal
 www.ziprecruiter.com##.all_banners_container
 
+! 2024-01-30 https://seekingalpha.com
+seekingalpha.com##.top-full.inset-x-0.absolute
+
+! 2024-01-30 https://portfolioslab.com
+portfolioslab.com##.css-ekeie0.MuiDialog-scrollPaper.MuiDialog-container
+
+! 2024-02-11 https://www.mid-day.com
+www.mid-day.com##.lotterygif
+
+! 2024-02-11 https://www.loksatta.com
+www.loksatta.com##[class$="network-taboola"]
+
+! 2024-02-17 https://marathi.indiatimes.com
+marathi.indiatimes.com##[id*="taboola-below-article"]
+marathi.indiatimes.com##[id*="taboola-mid-article"]
+||jsso.indiatimes.com^$xhr,important
+||accounts.google.com/gsi/client$script,domain=indiatimes.com,important
+||*youtubesubscribe.cms$important
+marathi.indiatimes.com##.endfakeloader.top_wdt_slider
+
+! 2024-02-18 https://www.mrfdev.com
+||*1x1*$important
+
+! 2024-02-29 https://www.msn.com
+www.msn.com##div.left-image-intra-ad.articlePageIntraArticleFullWidth
+
