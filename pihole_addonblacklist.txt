@@ -1,4 +1,7 @@
 
+#wildcards
+(\.|^)amplitude$
+
 #regex
 
 #streaming blocks
@@ -68,7 +71,13 @@ beacon-nf.rubiconproject.com
 tracker.samplicio.us
 ad.gt
 
-
+amplitude.com
+stage-mediate-events.applovin.com
+operate-sdk-telemetry.unity3d.com
+bidmachine.io
+api.bidmachine.io
+api-us.bidmachine.io
+collect.saas.castbox.fm
 app-measurement.com
 chromereporting-pa.googleapis.com
 ws.audioeye.com

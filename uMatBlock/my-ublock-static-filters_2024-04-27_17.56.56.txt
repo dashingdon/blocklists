@@ -2019,3 +2019,15 @@ marathi.indiatimes.com##.endfakeloader.top_wdt_slider
 ! 2024-02-29 https://www.msn.com
 www.msn.com##div.left-image-intra-ad.articlePageIntraArticleFullWidth
 
+! 2024-03-25 https://nextdoor.com
+nextdoor.com##.blocks-117pjcn.nas-container
+nextdoor.com##.blocks-1vp2o9c.nas-container
+
+! 2024-04-08 https://www.sfchronicle.com
+www.sfchronicle.com###ad
+
+! 2024-04-15 https://www.bbc.co.uk
+||static.files.bbci.co.uk/core/bundle-sign-in-prompt*
+||static.files.bbci.co.uk/core/bundle-component-sign-in-prompt*
+
+||accounts.google.com/gsi/*$xhr,script,3p
