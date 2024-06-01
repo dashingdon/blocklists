@@ -2031,3 +2031,16 @@ www.sfchronicle.com###ad
 ||static.files.bbci.co.uk/core/bundle-component-sign-in-prompt*
 
 ||accounts.google.com/gsi/*$xhr,script,3p
+
+! 2024-04-28 https://www.msn.com
+www.msn.com##.article-video-slot
+
+! 2024-04-28 https://www.reddit.com
+||*ad-event-tracker*.js$script,domain=www.reddit.com
+
+! 2024-05-03 https://www.reuters.com
+www.reuters.com##div[class*="primary-video"]
+www.reuters.com##[class*="license-content"]
+
+! 2024-05-20 https://www.bbc.co.uk
+www.bbc.co.uk##[class*="SignInBannerWrapper"]
