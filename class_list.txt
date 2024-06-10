@@ -4,3 +4,17 @@ ad-slot-rail
 container__ads stack__ads
 zone__ads
 ad-slot
+ad-feedback__modal modal__overlay
+dotcom-ad
+ad-container desktop
+vendor
+vendor-unit
+item-newsletter
+ad-container
+speechkit-wrapper
+article-social
+social-icons
+promo
+ad-slot-container
+top-banner-ad-container
+top-fronts-banner-ad-container 
