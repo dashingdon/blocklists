@@ -11,6 +11,8 @@ video.adsafeprotected.com
 pixel.production-public.tubi.io
 
 # manually reviewd
+a.teads.com
+teads.com
 
 # apple
 xg4ken.com
@@ -770,6 +772,7 @@ cos-rd.com
 dpm.demdex.net
 graph.instagram.com
 lna.tubi.video
+gnsnpaw.com
 in.appcenter.ms
 w3-reporting.reddit.com
 a.a47b.com

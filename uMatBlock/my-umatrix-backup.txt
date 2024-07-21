@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1717213296743,
+  "when": 1721536235182,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -1087,6 +1087,7 @@
     "matrix-off: paylogic.com true",
     "matrix-off: paypal.com true",
     "matrix-off: paytm.in true",
+    "matrix-off: paytmpayments.com true",
     "matrix-off: peacocktv.com true",
     "matrix-off: pge.com true",
     "matrix-off: pi-hole.net true",
