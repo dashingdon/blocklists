@@ -743,6 +743,7 @@ tags.tiqcdn.com
 debug.opendns.com
 
 # General
+graph.whatsapp.com
 hsvideo.herokuapp.com
 app-measurement.com
 videoads.newsy.com
